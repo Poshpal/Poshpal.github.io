@@ -998,5 +998,1155 @@
             { "text": "Según el calendario de la SEP.", "correct": false },
             { "text": "Los fines de semana no cuentan para notificaciones.", "correct": false }
         ]
+    },
+    {
+        "id": 101,
+        "text": "¿Cuál es el criterio de interpretación que debe utilizarse para las disposiciones del Reglamento de Elecciones, de acuerdo con el Artículo 2?",
+        "options": [
+            { "text": "Analógico y por mayoría de razón.", "correct": false },
+            { "text": "Únicamente el criterio gramatical de la norma.", "correct": false },
+            { "text": "Conforme a los usos y costumbres locales.", "correct": false },
+            { "text": "Gramatical, sistemático y funcional.", "correct": true }
+        ]
+    },
+    {
+        "id": 102,
+        "text": "Según el Artículo 3, ¿cómo deben computarse por regla general los plazos fijados en el Reglamento?",
+        "options": [
+            { "text": "Excluyendo sábados, domingos y días feriados.", "correct": false },
+            { "text": "En días naturales durante el proceso y hábiles fuera de él.", "correct": false },
+            { "text": "En días naturales.", "correct": true },
+            { "text": "En días hábiles.", "correct": false }
+        ]
+    },
+    {
+        "id": 103,
+        "text": "De acuerdo con el Artículo 9, ¿cuál es el límite de procesos electorales en los que puede participar un consejero local o distrital del Instituto?",
+        "options": [
+            { "text": "No existe límite mientras cumpla los requisitos de elegibilidad.", "correct": false },
+            { "text": "Seis años consecutivos sin importar el número de procesos.", "correct": false },
+            { "text": "Tres procesos electorales federales ordinarios.", "correct": false },
+            { "text": "Dos procesos electorales federales ordinarios.", "correct": true }
+        ]
+    },
+    {
+        "id": 104,
+        "text": "Para la designación de los titulares de las áreas ejecutivas de dirección de un OPL, ¿qué mayoría de votos se requiere en el Órgano Superior de Dirección?",
+        "options": [
+            { "text": "Mayoría simple de los presentes.", "correct": false },
+            { "text": "Ocho votos del Consejo General del INE.", "correct": false },
+            { "text": "Unanimidad de los consejeros.", "correct": false },
+            { "text": "Al menos cinco votos.", "correct": true }
+        ]
+    },
+    {
+        "id": 105,
+        "text": "Según el Artículo 39, ¿qué nombre recibe la facultad del Instituto para conocer un asunto específico de la competencia de los OPL debido a su interés, importancia o trascendencia?",
+        "options": [
+            { "text": "Atracción.", "correct": true },
+            { "text": "Sustitución funcional.", "correct": false },
+            { "text": "Asunción total.", "correct": false },
+            { "text": "Delegación.", "correct": false }
+        ]
+    },
+    {
+        "id": 106,
+        "text": "¿Cuál de los siguientes es un instrumento de coordinación técnica y financiera entre el INE y los OPL mencionado en el Artículo 27?",
+        "options": [
+            { "text": "Adendas.", "correct": true },
+            { "text": "Leyes de coordinación institucional.", "correct": false },
+            { "text": "Tratados de reciprocidad electoral.", "correct": false },
+            { "text": "Protocolos de emergencia local.", "correct": false }
+        ]
+    },
+    {
+        "id": 107,
+        "text": "De acuerdo con el Artículo 60, ¿cuántos Consejeros Electorales del Consejo General pueden formular una solicitud de atracción?",
+        "options": [
+            { "text": "Al menos cuatro consejeros.", "correct": true },
+            { "text": "La totalidad de los consejeros.", "correct": false },
+            { "text": "Al menos ocho consejeros.", "correct": false },
+            { "text": "Solo el Consejero Presidente.", "correct": false }
+        ]
+    },
+    {
+        "id": 108,
+        "text": "¿En qué mes debe iniciar la operación de las oficinas municipales del Instituto en un proceso electoral ordinario según el Artículo 12?",
+        "options": [
+            { "text": "El día que se instalan los consejos distritales.", "correct": false },
+            { "text": "En el mes de enero del año de la elección.", "correct": false },
+            { "text": "En el mes de septiembre del año previo a la elección.", "correct": true },
+            { "text": "Tres meses antes de la Jornada Electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 109,
+        "text": "Conforme al Artículo 128, ¿cuál es una restricción para las organizaciones ciudadanas que realicen promoción del voto?",
+        "options": [
+            { "text": "Solo pueden promover el voto en áreas rurales.", "correct": false },
+            { "text": "No pueden utilizar internet para sus campañas de promoción.", "correct": false },
+            { "text": "Deben tener vínculos con al menos un partido político.", "correct": false },
+            { "text": "Abstenerse de hacer pronunciamientos a favor o en contra de candidaturas o partidos.", "correct": true }
+        ]
+    },
+    {
+        "id": 110,
+        "text": "Según el Artículo 134, ¿cuándo se pueden dar a conocer los resultados de encuestas de salida en elecciones federales?",
+        "options": [
+            { "text": "A partir de las 18:00 horas del centro de México.", "correct": false },
+            { "text": "Inmediatamente después de que cierre la primera casilla.", "correct": false },
+            { "text": "Al día siguiente de la Jornada Electoral.", "correct": false },
+            { "text": "Hasta el cierre oficial de todas las casillas en el país (zonas de husos horarios occidentales).", "correct": true }
+        ]
+    },
+    {
+        "id": 111,
+        "text": "De acuerdo con el Artículo 164, ¿cuál es el plazo límite para aprobar sustituciones de candidaturas y que estas se reflejen en la boleta electoral?",
+        "options": [
+            { "text": "Hasta 15 días después del inicio de la campaña.", "correct": false },
+            { "text": "Hasta 72 horas antes de la Jornada Electoral.", "correct": false },
+            { "text": "En cualquier momento antes de que la boleta sea entregada al elector.", "correct": false },
+            { "text": "Hasta las 24 horas previas al inicio de la impresión de las boletas.", "correct": true }
+        ]
+    },
+    {
+        "id": 112,
+        "text": "Según el Artículo 84, ¿con cuánta anticipación debe el Consejo General aprobar la conformación del Comité Técnico de Evaluación del Padrón Electoral?",
+        "options": [
+            { "text": "Un mes después de la campaña anual intensa.", "correct": false },
+            { "text": "Noventa días antes de la impresión de las listas nominales.", "correct": false },
+            { "text": "Al menos cinco meses antes de la Jornada Electoral.", "correct": true },
+            { "text": "Al inicio del año previo a la elección.", "correct": false }
+        ]
+    },
+    {
+        "id": 113,
+        "text": "En el caso de casilla única para elecciones concurrentes, ¿qué material debe ser compartido entre el INE y el OPL según el Artículo 155?",
+        "options": [
+            { "text": "Listas nominales de revisión partidista.", "correct": false },
+            { "text": "Boletas electorales locales y federales.", "correct": false },
+            { "text": "Paquetes electorales (cajas).", "correct": false },
+            { "text": "Líquido indeleble.", "correct": true }
+        ]
+    },
+    {
+        "id": 114,
+        "text": "De acuerdo con el Artículo 40, ¿ante qué instancia debe presentarse la solicitud para el ejercicio de las facultades especiales (asunción, atracción o delegación)?",
+        "options": [
+            { "text": "Ante la Secretaría Ejecutiva del Instituto o la junta local ejecutiva correspondiente.", "correct": true },
+            { "text": "Exclusivamente ante la Oficialía de Partes del Tribunal Electoral.", "correct": false },
+            { "text": "Ante la Secretaría de Gobernación.", "correct": false },
+            { "text": "Directamente en la sesión del Consejo General por cualquier ciudadano.", "correct": false }
+        ]
+    },
+    {
+        "id": 115,
+        "text": "Según el Artículo 163, ¿quién suministra el líquido indeleble en las casillas únicas durante elecciones concurrentes?",
+        "options": [
+            { "text": "El Instituto Nacional Electoral (INE).", "correct": true },
+            { "text": "El Organismo Público Local (OPL).", "correct": false },
+            { "text": "La empresa privada ganadora de la licitación nacional.", "correct": false },
+            { "text": "Ambas instituciones de manera proporcional.", "correct": false }
+        ]
+    },
+    {
+        "id": 116,
+        "text": "Un partido político local cuestiona si las disposiciones del Reglamento de Elecciones le son aplicables fuera de un proceso electoral federal. Según el objeto y ámbito de aplicación, ¿quiénes están obligados a su observancia general?",
+        "options": [
+            { "text": "Únicamente el Instituto Nacional Electoral y los OPL.", "correct": false },
+            { "text": "El INE, los OPL, partidos políticos, precandidatos, candidatos y personas físicas o morales vinculadas.", "correct": true },
+            { "text": "Solamente las autoridades electorales federales y los partidos con registro nacional.", "correct": false },
+            { "text": "Exclusivamente los ciudadanos que participan como funcionarios de mesa directiva de casilla.", "correct": false }
+        ]
+    },
+    {
+        "id": 117,
+        "text": "En un estado se realiza una consulta sobre la interpretación de una norma del Reglamento que podría implicar la emisión de un criterio general. ¿Cuál es el procedimiento correcto para desahogarla?",
+        "options": [
+            { "text": "El Vocal Ejecutivo Local emite una respuesta definitiva de inmediato.", "correct": false },
+            { "text": "El Secretario Ejecutivo la remite a la instancia correspondiente para que la Comisión someta el proyecto al Consejo General.", "correct": true },
+            { "text": "El OPL decide autónomamente la interpretación sin consultar al INE.", "correct": false },
+            { "text": "Se aplica directamente el criterio gramatical sin posibilidad de consulta.", "correct": false }
+        ]
+    },
+    {
+        "id": 118,
+        "text": "Una autoridad electoral detecta una conducta que podría constituir violencia política contra las mujeres en razón de género durante el registro de candidaturas. ¿Qué acción debe tomar según el Reglamento?",
+        "options": [
+            { "text": "Ignorar el hecho si no hay una denuncia formal de la víctima.", "correct": false },
+            { "text": "Sancionar administrativamente de forma inmediata sin dar aviso a otras áreas.", "correct": false },
+            { "text": "Poner los hechos en conocimiento de la autoridad competente.", "correct": true },
+            { "text": "Suspender el proceso electoral en esa demarcación.", "correct": false }
+        ]
+    },
+    {
+        "id": 119,
+        "text": "Si un plazo legal vence en un sábado durante el desarrollo de un proceso electoral, ¿cómo debe computarse dicho término según las disposiciones generales?",
+        "options": [
+            { "text": "Se traslada al siguiente lunes por ser día inhábil.", "correct": false },
+            { "text": "Se computa en días naturales, por lo que el plazo vence ese mismo sábado.", "correct": true },
+            { "text": "Se suspende el término hasta que el Instituto reanude actividades.", "correct": false },
+            { "text": "Solo se cuentan los días que el INE determine como hábiles mediante acuerdo.", "correct": false }
+        ]
+    },
+    {
+        "id": 120,
+        "text": "El INE decide atraer un asunto de la competencia original de un OPL relacionado con el registro de coaliciones. ¿Qué carácter tienen las disposiciones emitidas bajo esta facultad de atracción?",
+        "options": [
+            { "text": "Únicamente orientadoras para el OPL interesado.", "correct": false },
+            { "text": "Opcionales, dependiendo de la legislación local de cada estado.", "correct": false },
+            { "text": "Tienen carácter obligatorio para el OPL correspondiente.", "correct": true },
+            { "text": "Son recomendaciones que el OPL puede decidir no aplicar.", "correct": false }
+        ]
+    },
+    {
+        "id": 121,
+        "text": "En septiembre del año previo a una elección federal ordinaria, el Consejo General debe integrar una comisión específica para supervisar la capacitación. ¿Cómo se conforma este órgano?",
+        "options": [
+            { "text": "Se crea una Comisión de Vigilancia del Padrón Electoral.", "correct": false },
+            { "text": "Se fusionan las Comisiones de Capacitación Electoral y Educación Cívica con la de Organización Electoral.", "correct": true },
+            { "text": "Se designa un comité técnico de ciudadanos sin experiencia electoral.", "correct": false },
+            { "text": "Se crea una oficina municipal temporal en cada cabecera distrital.", "correct": false }
+        ]
+    },
+    {
+        "id": 122,
+        "text": "Un ciudadano desea ser consejero electoral distrital por tercera ocasión. ¿Bajo qué criterio se valoraría su designación?",
+        "options": [
+            { "text": "Se le designa automáticamente por su experiencia previa.", "correct": false },
+            { "text": "No puede ser designado bajo ninguna circunstancia por el límite de reelección.", "correct": false },
+            { "text": "Se hará bajo estricta valoración del consejo, considerando si actuó como propietario en procesos federales.", "correct": true },
+            { "text": "Solo puede ser designado si es el único aspirante en su distrito.", "correct": false }
+        ]
+    },
+    {
+        "id": 123,
+        "text": "Al designar consejeros locales y distritales, el INE debe aplicar criterios orientadores para motivar el acuerdo. ¿Cuál de los siguientes NO es un criterio mencionado?",
+        "options": [
+            { "text": "Paridad de género y pluralidad cultural.", "correct": false },
+            { "text": "Compromiso democrático y prestigio profesional.", "correct": false },
+            { "text": "Conocimiento de la materia electoral.", "correct": false },
+            { "text": "Militancia activa en un partido político con registro vigente.", "correct": true }
+        ]
+    },
+    {
+        "id": 124,
+        "text": "Una Junta Distrital Ejecutiva propone instalar una oficina municipal debido a que ciertas secciones están a 4 horas de la sede. ¿Cuál es un requisito para su ubicación respecto a los partidos políticos?",
+        "options": [
+            { "text": "Debe ubicarse dentro de las instalaciones del partido con mayor votación.", "correct": false },
+            { "text": "Debe ubicarse a una distancia de por lo menos cincuenta metros de oficinas de partidos políticos.", "correct": true },
+            { "text": "No hay restricción de distancia si el inmueble es público.", "correct": false },
+            { "text": "Debe estar a menos de diez metros para facilitar la vigilancia.", "correct": false }
+        ]
+    },
+    {
+        "id": 125,
+        "text": "Las oficinas municipales tienen funciones específicas durante la etapa de preparación. ¿Cuál de estas es una de sus tareas?",
+        "options": [
+            { "text": "Realizar el cómputo final de la elección presidencial.", "correct": false },
+            { "text": "Funcionar como centro de capacitación electoral para ciudadanos insaculados y funcionarios de casilla.", "correct": true },
+            { "text": "Sustituir a los Consejos Distritales en la aprobación de casillas.", "correct": false },
+            { "text": "Emitir las credenciales para votar de los ciudadanos de la zona.", "correct": false }
+        ]
+    },
+    {
+        "id": 126,
+        "text": "Un OPL inicia el procedimiento para designar a los consejeros de sus consejos distritales. ¿Qué etapa es obligatoria según el Reglamento?",
+        "options": [
+            { "text": "Elección por sorteo entre todos los ciudadanos del padrón.", "correct": false },
+            { "text": "Valoración curricular y entrevista presencial.", "correct": true },
+            { "text": "Designación directa por el Gobernador del Estado.", "correct": false },
+            { "text": "Examen de oposición realizado por un partido político.", "correct": false }
+        ]
+    },
+    {
+        "id": 127,
+        "text": "Un aspirante a Secretario Ejecutivo de un OPL tiene 28 años al día de la designación. ¿Cumple con los requisitos mínimos del Reglamento de Elecciones?",
+        "options": [
+            { "text": "Sí, siempre que tenga título profesional.", "correct": false },
+            { "text": "No, debe tener más de treinta años de edad al día de la designación.", "correct": true },
+            { "text": "Sí, la edad mínima es de 25 años según la LGIPE.", "correct": false },
+            { "text": "No, la edad mínima es de 35 años para cargos directivos.", "correct": false }
+        ]
+    },
+    {
+        "id": 128,
+        "text": "Un partido político nacional solicita el registro de un candidato que fue dirigente estatal de otro partido hace dos años para el cargo de titular de un área ejecutiva del OPL. ¿Es procedente?",
+        "options": [
+            { "text": "Sí, si el partido actual lo respalda por escrito.", "correct": false },
+            { "text": "No, no debe haber desempeñado cargo de dirección nacional o estatal en un partido en los últimos cuatro años.", "correct": true },
+            { "text": "Sí, el plazo de restricción es de solo un año.", "correct": false },
+            { "text": "No, la restricción es de por vida para cargos técnicos.", "correct": false }
+        ]
+    },
+    {
+        "id": 129,
+        "text": "Ante la falta de aprobación de una propuesta de designación de un funcionario de OPL, el Consejero Presidente nombra a un encargado de despacho. ¿Cuánto tiempo puede durar en el cargo?",
+        "options": [
+            { "text": "Indefinidamente hasta que haya consenso.", "correct": false },
+            { "text": "Hasta un plazo no mayor a un año.", "correct": true },
+            { "text": "Máximo tres meses para no afectar la operación.", "correct": false },
+            { "text": "Solo durante la duración del proceso electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 130,
+        "text": "El INE y un OPL deben formalizar la organización de una elección local concurrente. ¿Cuál es el instrumento jurídico base para esta colaboración?",
+        "options": [
+            { "text": "Un contrato de prestación de servicios.", "correct": false },
+            { "text": "Un convenio general de coordinación.", "correct": true },
+            { "text": "Un acta de asunción total de funciones.", "correct": false },
+            { "text": "Una minuta de trabajo informal entre presidentes.", "correct": false }
+        ]
+    },
+    {
+        "id": 131,
+        "text": "En el marco de un convenio con un OPL, se requiere precisar una actividad técnica que no se incluyó inicialmente. ¿Qué instrumento debe suscribirse?",
+        "options": [
+            { "text": "Una adenda.", "correct": true },
+            { "text": "Un nuevo convenio general.", "correct": false },
+            { "text": "Un oficio de notificación simple.", "correct": false },
+            { "text": "Un anexo financiero adicional.", "correct": false }
+        ]
+    },
+    {
+        "id": 132,
+        "text": "Un OPL formula una consulta al INE sobre la interpretación de una norma fuera de proceso electoral. ¿Cuál es el plazo máximo para que la dirección técnica remita la respuesta a la UTVOPL?",
+        "options": [
+            { "text": "3 días naturales.", "correct": false },
+            { "text": "10 días hábiles.", "correct": true },
+            { "text": "24 horas.", "correct": false },
+            { "text": "No hay plazo definido fuera de proceso electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 133,
+        "text": "El INE advierte que un OPL no cuenta con los recursos técnicos para realizar el PREP y decide desarrollar directamente la totalidad de las actividades del proceso local. ¿Cómo se denomina esta facultad?",
+        "options": [
+            { "text": "Asunción parcial.", "correct": false },
+            { "text": "Asunción total.", "correct": true },
+            { "text": "Atracción por importancia y trascendencia.", "correct": false },
+            { "text": "Delegación de funciones.", "correct": false }
+        ]
+    },
+    {
+        "id": 134,
+        "text": "Cuatro Consejeros Electorales del INE consideran que un asunto de un OPL es \"novedoso\" y requiere un criterio interpretativo. ¿Qué procedimiento deben iniciar?",
+        "options": [
+            { "text": "Procedimiento de asunción total.", "correct": false },
+            { "text": "Procedimiento de atracción.", "correct": true },
+            { "text": "Procedimiento de delegación.", "correct": false },
+            { "text": "Procedimiento de queja administrativa.", "correct": false }
+        ]
+    },
+    {
+        "id": 135,
+        "text": "Para que el Consejo General apruebe el ejercicio de una facultad de asunción o atracción, ¿cuántos votos se requieren como mínimo?",
+        "options": [
+            { "text": "Mayoría simple de los presentes.", "correct": false },
+            { "text": "Al menos ocho votos de los Consejeros Electorales.", "correct": true },
+            { "text": "Unanimidad de los integrantes con derecho a voto.", "correct": false },
+            { "text": "Seis votos, igual que para designar consejeros locales.", "correct": false }
+        ]
+    },
+    {
+        "id": 136,
+        "text": "En un procedimiento de asunción total iniciado por el INE, se cita al OPL a una audiencia. ¿Quién debe comparecer por parte del OPL?",
+        "options": [
+            { "text": "El Gobernador del Estado.", "correct": false },
+            { "text": "El Secretario Ejecutivo del OPL.", "correct": true },
+            { "text": "El representante del partido con más votos.", "correct": false },
+            { "text": "El Vocal Ejecutivo Local del INE.", "correct": false }
+        ]
+    },
+    {
+        "id": 137,
+        "text": "Si el INE delega una función electoral a un OPL, ¿cuándo cesan los efectos de dicha facultad delegada?",
+        "options": [
+            { "text": "Cuando el OPL decida que ya no puede cumplirla.", "correct": false },
+            { "text": "Al finalizar el proceso electoral respecto del cual se determinó la delegación.", "correct": true },
+            { "text": "Una vez que se firme el anexo financiero.", "correct": false },
+            { "text": "A los seis meses de la designación.", "correct": false }
+        ]
+    },
+    {
+        "id": 138,
+        "text": "¿Qué autoridad es la responsable de validar la experiencia del ente auditor que revisará el sistema informático del PREP?",
+        "options": [
+            { "text": "La Comisión de Vinculación con OPL.", "correct": false },
+            { "text": "La instancia interna responsable de coordinar el PREP.", "correct": true },
+            { "text": "El Comité Técnico Asesor del PREP (COTAPREP).", "correct": false },
+            { "text": "El Tribunal Electoral del Poder Judicial de la Federación.", "correct": false }
+        ]
+    },
+    {
+        "id": 139,
+        "text": "Un OPL desea realizar sus propios Conteos Rápidos para la elección de Gobernador. ¿Es esto posible según el Reglamento?",
+        "options": [
+            { "text": "No, es facultad exclusiva y obligatoria del INE.", "correct": false },
+            { "text": "Sí, los OPL deben realizar conteos rápidos en elecciones de gobernador o jefe de gobierno.", "correct": true },
+            { "text": "Solo si el INE no tiene presupuesto para hacerlo.", "correct": false },
+            { "text": "Únicamente si los partidos políticos locales lo solicitan por unanimidad.", "correct": false }
+        ]
+    },
+    {
+        "id": 140,
+        "text": "El Comité Técnico Asesor de Conteos Rápidos (COTECORA) debe integrarse con expertos en qué áreas?",
+        "options": [
+            { "text": "Derecho Constitucional y Ciencia Política.", "correct": false },
+            { "text": "Métodos estadísticos y diseño muestral.", "correct": true },
+            { "text": "Informática y Ciberseguridad exclusivamente.", "correct": false },
+            { "text": "Periodismo y Comunicación Social.", "correct": false }
+        ]
+    },
+    {
+        "id": 141,
+        "text": "El INE debe aprobar una herramienta que guíe todas las actividades de una elección federal. ¿Cómo se denomina formalmente?",
+        "options": [
+            { "text": "Guía de Casilla Única.", "correct": false },
+            { "text": "Plan integral y calendario.", "correct": true },
+            { "text": "Estrategia de Capacitación y Asistencia Electoral.", "correct": false },
+            { "text": "Manual de Identificación de Vehículos.", "correct": false }
+        ]
+    },
+    {
+        "id": 142,
+        "text": "Para salvaguardar el derecho al voto de jóvenes que cumplen 18 años el día de la elección, el Consejo General puede:",
+        "options": [
+            { "text": "Permitirles votar sin credencial con un acta de nacimiento.", "correct": false },
+            { "text": "Aprobar un ajuste a los plazos para la actualización del Padrón Electoral.", "correct": true },
+            { "text": "Emitir credenciales provisionales el día de la jornada.", "correct": false },
+            { "text": "Inscribirlos automáticamente sin que ellos lo soliciten.", "correct": false }
+        ]
+    },
+    {
+        "id": 143,
+        "text": "La DERFE realiza encuestas probabilísticas para generar indicadores cuantitativos sobre el avance en la credencialización. ¿Cómo se llama este ejercicio?",
+        "options": [
+            { "text": "Verificación Nacional Muestral.", "correct": true },
+            { "text": "Auditoría al Padrón Electoral.", "correct": false },
+            { "text": "Conteo Rápido Institucional.", "correct": false },
+            { "text": "Monitoreo de Módulos de Atención.", "correct": false }
+        ]
+    },
+    {
+        "id": 144,
+        "text": "¿En qué momento debe aprobarse la conformación del Comité Técnico de Evaluación del Padrón Electoral?",
+        "options": [
+            { "text": "Al inicio de las precampañas.", "correct": false },
+            { "text": "Al menos cinco meses antes de la Jornada Electoral.", "correct": true },
+            { "text": "Un mes antes del cierre de la lista nominal.", "correct": false },
+            { "text": "Durante la sesión de instalación del Consejo General.", "correct": false }
+        ]
+    },
+    {
+        "id": 145,
+        "text": "Los partidos políticos reciben listas nominales para su revisión. ¿Qué medida de seguridad deben observar estrictamente?",
+        "options": [
+            { "text": "Pueden fotocopiarlas para sus brigadas de campo.", "correct": false },
+            { "text": "No podrán almacenarlas ni reproducirlas por ningún medio.", "correct": true },
+            { "text": "Deben publicarlas en sus redes sociales para transparencia.", "correct": false },
+            { "text": "Pueden vender la base de datos a empresas de marketing político.", "correct": false }
+        ]
+    },
+    {
+        "id": 146,
+        "text": "Un ciudadano no recoge su credencial para votar en el plazo determinado. ¿Qué sucede con ese formato de credencial?",
+        "options": [
+            { "text": "Se destruye inmediatamente.", "correct": false },
+            { "text": "Se entrega al partido político con más afiliados en la sección.", "correct": false },
+            { "text": "Será resguardado conforme al procedimiento previsto en el Reglamento.", "correct": true },
+            { "text": "Se envía por correo al domicilio del ciudadano el día de la elección.", "correct": false }
+        ]
+    },
+    {
+        "id": 147,
+        "text": "¿Qué modalidad de votación es obligatoria para las y los mexicanos residentes en el extranjero en cada proceso electoral federal?",
+        "options": [
+            { "text": "Únicamente voto postal.", "correct": false },
+            { "text": "Únicamente voto presencial en embajadas.", "correct": false },
+            { "text": "Votación electrónica por Internet.", "correct": true },
+            { "text": "Voto por mensajería privada pagada por el ciudadano.", "correct": false }
+        ]
+    },
+    {
+        "id": 148,
+        "text": "Un OPL quiere capacitar a sus propios observadores electorales. ¿Quién debe validar los materiales didácticos que utilizará?",
+        "options": [
+            { "text": "El Congreso Local.", "correct": false },
+            { "text": "La DECEYEC del Instituto.", "correct": true },
+            { "text": "La Secretaría de Gobernación.", "correct": false },
+            { "text": "El propio Consejo General del OPL de forma autónoma.", "correct": false }
+        ]
+    },
+    {
+        "id": 149,
+        "text": "Una organización de ciudadanos quiere promover el voto de forma imparcial. ¿Qué restricción tiene respecto al logotipo del INE en sus materiales?",
+        "options": [
+            { "text": "Puede usarlo libremente en cualquier publicación.", "correct": false },
+            { "text": "Solo podrá publicarlo previo proceso de revisión y validación por parte del Instituto.", "correct": true },
+            { "text": "Tiene prohibido usar el logotipo bajo cualquier circunstancia.", "correct": false },
+            { "text": "Debe usarlo obligatoriamente en el 50% de la superficie del material.", "correct": false }
+        ]
+    },
+    {
+        "id": 150,
+        "text": "Un observador electoral acreditado desea portar una playera con el emblema de una coalición el día de la jornada. ¿Es esto permitido?",
+        "options": [
+            { "text": "Sí, mientras no hable con los votantes.", "correct": false },
+            { "text": "No, debe abstenerse de portar emblemas o distintivos relacionados con partidos o candidatos.", "correct": true },
+            { "text": "Solo si la playera es de un color neutro.", "correct": false },
+            { "text": "Sí, porque es un derecho ciudadano manifestar sus preferencias.", "correct": false }
+        ]
+    },
+    {
+        "id": 151,
+        "text": "Se está diseñando la boleta para una elección concurrente. ¿Qué debe evitar el OPL en cuanto al uso de colores?",
+        "options": [
+            { "text": "Usar colores llamativos para no distraer al elector.", "correct": false },
+            { "text": "Abstenerse de utilizar los colores que emplea el Instituto en las elecciones federales.", "correct": true },
+            { "text": "Usar el color blanco para ahorrar costos de impresión.", "correct": false },
+            { "text": "Utilizar exactamente los mismos colores que el INE para que el ciudadano no se confunda.", "correct": false }
+        ]
+    },
+    {
+        "id": 152,
+        "text": "Un candidato independiente a diputado federal impugna la negativa de su registro 24 horas antes del inicio de la impresión de boletas. ¿Qué debe hacer el INE?",
+        "options": [
+            { "text": "Imprimir la boleta sin el nombre del candidato.", "correct": false },
+            { "text": "Postergar la impresión hasta que se resuelva la impugnación.", "correct": true },
+            { "text": "Eliminar el recuadro de candidaturas independientes.", "correct": false },
+            { "text": "Imprimir solo los logotipos de los partidos.", "correct": false }
+        ]
+    },
+    {
+        "id": 153,
+        "text": "Al término de la impresión, ¿cuál es el orden de prelación para la producción de boletas en elecciones federales?",
+        "options": [
+            { "text": "Diputaciones, Senadurías y Presidencia.", "correct": false },
+            { "text": "Presidencia, Senadurías y Diputaciones Federales.", "correct": true },
+            { "text": "Senadurías, Presidencia y Diputaciones.", "correct": false },
+            { "text": "Según el orden alfabético de los candidatos.", "correct": false }
+        ]
+    },
+    {
+        "id": 154,
+        "text": "Las bodegas electorales deben determinarse en el mes de febrero. ¿Quién es el responsable directo de todas las operaciones de apertura y cierre de la bodega distrital?",
+        "options": [
+            { "text": "El Vocal de Capacitación.", "correct": false },
+            { "text": "La presidencia del consejo distrital.", "correct": true },
+            { "text": "El representante del partido con más antigüedad.", "correct": false },
+            { "text": "El auditor externo designado por el OPL.", "correct": false }
+        ]
+    },
+    {
+        "id": 155,
+        "text": "Durante el sellado y agrupamiento de boletas, se detecta que faltan 100 boletas para una casilla. ¿Qué acción debe tomar el presidente del consejo distrital?",
+        "options": [
+            { "text": "Suspender el proceso de armado de todos los paquetes.", "correct": false },
+            { "text": "Dar aviso de inmediato vía oficio a la presidencia del consejo local usando el formato respectivo.", "correct": true },
+            { "text": "Fotocopiar boletas de otra casilla para completar el faltante.", "correct": false },
+            { "text": "Repartir las boletas de las casillas especiales entre las básicas.", "correct": false }
+        ]
+    },
+    {
+        "id": 156,
+        "text": "¿Cuál es el número máximo de boletas que se asignan a una casilla especial para electores en tránsito?",
+        "options": [
+            { "text": "750 boletas.", "correct": false },
+            { "text": "Hasta 1,500 boletas por tipo de elección.", "correct": true },
+            { "text": "3,000 boletas para evitar que se agoten.", "correct": false },
+            { "text": "Depende del número de ciudadanos en la lista nominal de la sección.", "correct": false }
+        ]
+    },
+    {
+        "id": 157,
+        "text": "Un lugar propuesto para instalar una casilla está junto a una gasolinera. ¿Qué criterio de ubicación se estaría vulnerando?",
+        "options": [
+            { "text": "No estar cerca de lugares contaminantes o peligrosos (inflamables).", "correct": true },
+            { "text": "No tener acceso para personas con discapacidad.", "correct": false },
+            { "text": "Estar en un lugar público muy concurrido.", "correct": false },
+            { "text": "Ser un domicilio particular sin ventilación.", "correct": false }
+        ]
+    },
+    {
+        "id": 158,
+        "text": "Una sección electoral tiene solo 85 electores en la lista nominal. ¿Qué debe hacer el consejo distrital?",
+        "options": [
+            { "text": "No instalar casilla y reasignar a los ciudadanos a la sección más cercana.", "correct": true },
+            { "text": "Instalar una casilla básica obligatoriamente.", "correct": false },
+            { "text": "Obligar a los ciudadanos a tramitar su voto en el extranjero.", "correct": false },
+            { "text": "Eliminar la sección del marco geográfico.", "correct": false }
+        ]
+    },
+    {
+        "id": 159,
+        "text": "En elecciones concurrentes, ¿cómo se conforma la Mesa Directiva de la Casilla Única?",
+        "options": [
+            { "text": "Un presidente, un secretario y dos escrutadores.", "correct": false },
+            { "text": "Un presidente, dos secretarios, tres escrutadores y tres suplentes generales.", "correct": true },
+            { "text": "Dos presidentes (uno federal y uno local) y cuatro secretarios.", "correct": false },
+            { "text": "Siete funcionarios elegidos por los partidos políticos.", "correct": false }
+        ]
+    },
+    {
+        "id": 160,
+        "text": "Un ciudadano que vive en el Distrito 01 quiere votar en una casilla especial ubicada en el Distrito 02 de la misma entidad para la elección de Gobernador. ¿Puede hacerlo?",
+        "options": [
+            { "text": "No, solo puede votar por Presidente.", "correct": false },
+            { "text": "Sí, los electores fuera de su sección pero dentro de su entidad pueden votar por Gobernador.", "correct": true },
+            { "text": "Sí, siempre que el presidente de casilla lo autorice verbalmente.", "correct": false },
+            { "text": "No, en casillas especiales solo se vota por representación proporcional.", "correct": false }
+        ]
+    },
+    {
+        "id": 161,
+        "text": "Un partido político nacional en elecciones concurrentes quiere acreditar representantes ante una casilla única. ¿Cuántos puede registrar?",
+        "options": [
+            { "text": "Un propietario y un suplente.", "correct": false },
+            { "text": "Dos representantes propietarios y dos suplentes.", "correct": true },
+            { "text": "Cinco representantes generales por sección.", "correct": false },
+            { "text": "No tiene límite si son voluntarios.", "correct": false }
+        ]
+    },
+    {
+        "id": 162,
+        "text": "¿Cuál es el plazo límite para que los partidos políticos registren a sus representantes ante las mesas directivas de casilla?",
+        "options": [
+            { "text": "El día de la elección a las 7:00 am.", "correct": false },
+            { "text": "Hasta trece días antes del día de la elección.", "correct": true },
+            { "text": "Un mes antes de la jornada electoral.", "correct": false },
+            { "text": "Al momento de registrar las plataformas electorales.", "correct": false }
+        ]
+    },
+    {
+        "id": 163,
+        "text": "Se detecta que un ciudadano fue registrado como representante de casilla por dos partidos diferentes. ¿Qué procedimiento sigue el INE?",
+        "options": [
+            { "text": "Cancela ambos registros automáticamente.", "correct": false },
+            { "text": "Requiere al ciudadano para que informe por cuál partido opta; si no responde, queda vigente la primera solicitud.", "correct": true },
+            { "text": "El partido con más antigüedad conserva al representante.", "correct": false },
+            { "text": "Se permite que represente a ambos si los partidos están en coalición.", "correct": false }
+        ]
+    },
+    {
+        "id": 164,
+        "text": "¿En qué sistema informático deben capturarse obligatoriamente los datos de las precandidaturas y candidaturas federales y locales?",
+        "options": [
+            { "text": "SIJE.", "correct": false },
+            { "text": "SNR (Sistema Nacional de Registro).", "correct": true },
+            { "text": "PREP.", "correct": false },
+            { "text": "SICCE.", "correct": false }
+        ]
+    },
+    {
+        "id": 165,
+        "text": "Un partido político omite capturar información en el SNR. El OPL aprueba la candidatura \"con salvedades\". ¿Qué plazo tiene el partido para solventar las irregularidades tras el aviso por correo?",
+        "options": [
+            { "text": "24 horas.", "correct": false },
+            { "text": "48 horas improrrogables.", "correct": true },
+            { "text": "5 días naturales.", "correct": false },
+            { "text": "Hasta el inicio de las campañas.", "correct": false }
+        ]
+    },
+    {
+        "id": 166,
+        "text": "Dos partidos quieren formar una coalición para postular al 30% de los candidatos a diputados. ¿Qué modalidad de coalición están formando?",
+        "options": [
+            { "text": "Total.", "correct": false },
+            { "text": "Parcial.", "correct": false },
+            { "text": "Flexible.", "correct": true },
+            { "text": "Mixta.", "correct": false }
+        ]
+    },
+    {
+        "id": 167,
+        "text": "Un convenio de coalición total para senadurías se registra. Si la coalición no registra la totalidad de las fórmulas en el plazo legal, ¿qué sucede?",
+        "options": [
+            { "text": "Solo se sanciona económicamente a los partidos.", "correct": false },
+            { "text": "La coalición queda automáticamente sin efectos.", "correct": true },
+            { "text": "Se les otorga una prórroga de 48 horas.", "correct": false },
+            { "text": "Los partidos pueden registrar candidatos individuales solo en los distritos faltantes.", "correct": false }
+        ]
+    },
+    {
+        "id": 168,
+        "text": "En el registro de candidaturas a senadurías por mayoría relativa, ¿qué regla de paridad horizontal debe cumplirse?",
+        "options": [
+            { "text": "Todas las listas deben estar encabezadas por mujeres.", "correct": false },
+            { "text": "El 50% de las listas por entidad deben estar encabezadas por hombres y el 50% por mujeres.", "correct": true },
+            { "text": "La paridad solo aplica para la lista nacional de representación proporcional.", "correct": false },
+            { "text": "Solo se requiere que haya al menos una mujer en cada fórmula.", "correct": false }
+        ]
+    },
+    {
+        "id": 169,
+        "text": "Para acreditar la residencia de un candidato, ¿qué documento hace las veces de constancia si el domicilio coincide?",
+        "options": [
+            { "text": "El acta de nacimiento certificada.", "correct": false },
+            { "text": "La credencial para votar vigente.", "correct": true },
+            { "text": "Un recibo de luz con antigüedad de 5 años.", "correct": false },
+            { "text": "Una carta firmada por dos vecinos.", "correct": false }
+        ]
+    },
+    {
+        "id": 170,
+        "text": "Un aspirante a candidatura independiente a la Presidencia debe constituir una Asociación Civil. ¿Qué documentos debe presentar con su manifestación de intención?",
+        "options": [
+            { "text": "Solo su currículum y plan de gobierno.", "correct": false },
+            { "text": "Acta constitutiva de la AC, RFC y contrato de cuenta bancaria a nombre de la AC.", "correct": true },
+            { "text": "Lista de 1 millón de firmas de apoyo inicial.", "correct": false },
+            { "text": "Fianza de cumplimiento por 10 millones de pesos.", "correct": false }
+        ]
+    },
+    {
+        "id": 171,
+        "text": "¿Qué sucede si un aspirante a candidato independiente es postulado simultáneamente por un partido político para el mismo proceso?",
+        "options": [
+            { "text": "Se le permite participar en ambas modalidades.", "correct": false },
+            { "text": "El Secretario Ejecutivo le requiere para que en 24 horas informe por cuál opción opta.", "correct": true },
+            { "text": "Se cancela automáticamente su aspiración independiente.", "correct": false },
+            { "text": "El partido político pierde su registro por duplicidad.", "correct": false }
+        ]
+    },
+    {
+        "id": 172,
+        "text": "Los partidos deben presentar un informe sobre los materiales de propaganda impresa. ¿Qué requisito deben cumplir los plásticos utilizados?",
+        "options": [
+            { "text": "Ser de color blanco obligatoriamente.", "correct": false },
+            { "text": "Contener certificados de calidad de la resina y ser biodegradables/reciclables.", "correct": true },
+            { "text": "No tener más de dos tintas para facilitar el reciclaje.", "correct": false },
+            { "text": "Ser importados de países con normas ambientales superiores.", "correct": false }
+        ]
+    },
+    {
+        "id": 173,
+        "text": "El monitoreo de programas de radio y televisión que difunden noticias debe incluir un análisis cualitativo de la mención a los partidos. ¿Qué tipo de orientación se debe reportar?",
+        "options": [
+            { "text": "Solo menciones positivas.", "correct": false },
+            { "text": "Orientación positiva, negativa o neutra.", "correct": true },
+            { "text": "Únicamente el tiempo en segundos.", "correct": false },
+            { "text": "El nombre del periodista que emite la opinión.", "correct": false }
+        ]
+    },
+    {
+        "id": 174,
+        "text": "¿Con cuánta anticipación al inicio de las precampañas debe aprobarse la metodología del monitoreo de noticias?",
+        "options": [
+            { "text": "10 días.", "correct": false },
+            { "text": "Al menos cuarenta y cinco días antes.", "correct": true },
+            { "text": "24 horas antes del primer spot.", "correct": false },
+            { "text": "Al inicio del año electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 175,
+        "text": "Para las elecciones de Presidencia, ¿cuántos debates son obligatorios organizar por el INE?",
+        "options": [
+            { "text": "Al menos uno en cada estado.", "correct": false },
+            { "text": "El número que determine el Consejo General en las reglas básicas.", "correct": true },
+            { "text": "Solo uno antes del cierre de campaña.", "correct": false },
+            { "text": "Diez debates televisados en horario estelar.", "correct": false }
+        ]
+    },
+    {
+        "id": 176,
+        "text": "Un medio de comunicación organiza un debate por su cuenta. ¿Qué requisito es obligatorio según la ley?",
+        "options": [
+            { "text": "Contar con permiso escrito del Presidente del INE.", "correct": false },
+            { "text": "Convocar fehacientemente a todas las candidatas y candidatos.", "correct": true },
+            { "text": "Pagar una cuota de supervisión al OPL.", "correct": false },
+            { "text": "Que el moderador sea un funcionario electoral vigente.", "correct": false }
+        ]
+    },
+    {
+        "id": 177,
+        "text": "¿A qué hora inicia la publicación de resultados preliminares (PREP) en una elección federal?",
+        "options": [
+            { "text": "A las 18:00 horas del día de la elección.", "correct": false },
+            { "text": "A partir de las 20:00 horas, tiempo del centro.", "correct": true },
+            { "text": "Hasta que se tenga el 50% de las actas capturadas.", "correct": false },
+            { "text": "Al cierre de la última casilla en el estado de Baja California.", "correct": false }
+        ]
+    },
+    {
+        "id": 178,
+        "text": "¿Cuál es el objetivo principal del Sistema de Información sobre el desarrollo de la Jornada Electoral (SIJE)?",
+        "options": [
+            { "text": "Dar los resultados oficiales definitivos.", "correct": false },
+            { "text": "Informar de manera permanente sobre la instalación de casillas e incidentes.", "correct": true },
+            { "text": "Fiscalizar los gastos de los partidos el día de la elección.", "correct": false },
+            { "text": "Sustituir el conteo manual de los votos.", "correct": false }
+        ]
+    },
+    {
+        "id": 179,
+        "text": "Un CAE local apoya en la recopilación de información para el SIJE. ¿Qué debe portar obligatoriamente su vehículo?",
+        "options": [
+            { "text": "Una bandera de México.", "correct": false },
+            { "text": "Una identificación foliada visible (tarjetón vehicular).", "correct": true },
+            { "text": "El logotipo del partido político con mayoría en la sección.", "correct": false },
+            { "text": "Una sirena para abrirse paso en el tráfico.", "correct": false }
+        ]
+    },
+    {
+        "id": 180,
+        "text": "Las personas morales que realizan encuestas de salida deben dar aviso al Secretario Ejecutivo. ¿Cuál es el plazo límite para este aviso?",
+        "options": [
+            { "text": "El mismo día de la elección.", "correct": false },
+            { "text": "A más tardar diez días antes de la Jornada Electoral.", "correct": true },
+            { "text": "48 horas antes del inicio de las campañas.", "correct": false },
+            { "text": "Al momento de publicar los resultados en internet.", "correct": false }
+        ]
+    },
+    {
+        "id": 181,
+        "text": "Un ciudadano acude a una casilla especial y el sistema SICCE indica que su credencial tiene una suspensión de derechos políticos. ¿Qué debe hacer el funcionario de casilla?",
+        "options": [
+            { "text": "Permitirle votar para no violar sus derechos humanos.", "correct": false },
+            { "text": "Impedirle sufragar conforme a los supuestos del Anexo 8.2.", "correct": true },
+            { "text": "Retenerle la credencial y llamar a la policía.", "correct": false },
+            { "text": "Darle una boleta pero no depositarla en la urna.", "correct": false }
+        ]
+    },
+    {
+        "id": 182,
+        "text": "Al cierre de la votación, ¿quién es el responsable de clausurar la casilla y trasladar el paquete electoral?",
+        "options": [
+            { "text": "El representante del partido con más votos.", "correct": false },
+            { "text": "El presidente de la mesa directiva de casilla o el funcionario designado.", "correct": true },
+            { "text": "El Supervisor Electoral obligatoriamente.", "correct": false },
+            { "text": "El personal de la Secretaría de la Defensa Nacional.", "correct": false }
+        ]
+    },
+    {
+        "id": 183,
+        "text": "Se aprueba un mecanismo de recolección llamado CRyT Fijo. ¿Cuál es su función?",
+        "options": [
+            { "text": "Recoger paquetes casa por casa.", "correct": false },
+            { "text": "Recepción y concentración de paquetes programados para su traslado conjunto al consejo.", "correct": true },
+            { "text": "Funcionar como una casilla especial adicional.", "correct": false },
+            { "text": "Resguardar las boletas sobrantes antes de la elección.", "correct": false }
+        ]
+    },
+    {
+        "id": 184,
+        "text": "Un partido político quiere acreditar representantes ante un mecanismo de recolección. ¿Hasta cuándo puede realizar el registro?",
+        "options": [
+            { "text": "El día de la elección.", "correct": false },
+            { "text": "Hasta tres días antes de la Jornada Electoral.", "correct": true },
+            { "text": "Un mes antes del proceso electoral.", "correct": false },
+            { "text": "Al finalizar el cómputo distrital.", "correct": false }
+        ]
+    },
+    {
+        "id": 185,
+        "text": "El PREP sufre una caída del sistema. ¿Qué documento debe prever mecanismos de continuidad y contingencia para su operación?",
+        "options": [
+            { "text": "El Acta de la Jornada Electoral.", "correct": false },
+            { "text": "El proceso técnico operativo aprobado por el Consejo General.", "correct": true },
+            { "text": "La Guía de Apoyo para la Clasificación de Votos.", "correct": false },
+            { "text": "El Manual de Identificación Vehicular.", "correct": false }
+        ]
+    },
+    {
+        "id": 186,
+        "text": "¿Cuántos simulacros del PREP son obligatorios realizar antes de la Jornada Electoral?",
+        "options": [
+            { "text": "Uno, el domingo previo.", "correct": false },
+            { "text": "Como mínimo, tres simulacros durante los tres domingos previos.", "correct": true },
+            { "text": "Cinco, uno cada día de la última semana.", "correct": false },
+            { "text": "Ninguno, si el sistema es el mismo del año anterior.", "correct": false }
+        ]
+    },
+    {
+        "id": 187,
+        "text": "Un ente auditor realiza pruebas de \"caja negra\" al sistema informático del PREP. ¿Cuál es el objetivo principal de esta auditoría?",
+        "options": [
+            { "text": "Contar los votos físicos de los paquetes.", "correct": false },
+            { "text": "Evaluar la integridad en el procesamiento de la información y generación de resultados preliminares.", "correct": true },
+            { "text": "Verificar que los partidos políticos no gasten más de lo permitido.", "correct": false },
+            { "text": "Designar a los moderadores de los debates.", "correct": false }
+        ]
+    },
+    {
+        "id": 188,
+        "text": "Los resultados del PREP se publican a través de difusores oficiales. ¿Qué característica debe tener el acceso a esta información para el público?",
+        "options": [
+            { "text": "Debe requerir un registro con nombre y correo.", "correct": false },
+            { "text": "Debe ser seguro, público y gratuito.", "correct": true },
+            { "text": "Solo puede consultarse desde oficinas del INE.", "correct": false },
+            { "text": "Tiene un costo por cada descarga de base de datos.", "correct": false }
+        ]
+    },
+    {
+        "id": 189,
+        "text": "¿En qué caso el PREP puede cerrar la publicación antes de las 24 horas establecidas?",
+        "options": [
+            { "text": "Si el candidato ganador lo solicita.", "correct": false },
+            { "text": "Si se logra el 100% del registro de las actas esperadas y se agotan los recursos de recuperación.", "correct": true },
+            { "text": "Si hay mal tiempo y se pierde la conexión a internet.", "correct": false },
+            { "text": "A la medianoche del día de la elección por seguridad.", "correct": false }
+        ]
+    },
+    {
+        "id": 190,
+        "text": "El Cómputo Distrital de una elección federal inicia a qué hora?",
+        "options": [
+            { "text": "Inmediatamente al cerrar la última casilla.", "correct": false },
+            { "text": "A las 08:00 horas del miércoles siguiente a la Jornada Electoral.", "correct": true },
+            { "text": "El domingo de la elección por la noche.", "correct": false },
+            { "text": "El lunes a mediodía después de validar el PREP.", "correct": false }
+        ]
+    },
+    {
+        "id": 191,
+        "text": "Se detecta una diferencia del 0.8% entre el primero y segundo lugar en un distrito. El partido en segundo lugar solicita recuento total. ¿Es procedente?",
+        "options": [
+            { "text": "No, la diferencia debe ser menor al 0.5%.", "correct": false },
+            { "text": "Sí, cuando la diferencia es igual o menor a un punto porcentual y hay petición expresa.", "correct": true },
+            { "text": "Solo si se detectan paquetes alterados en más del 50% de las casillas.", "correct": false },
+            { "text": "No, el recuento total solo lo decide el Tribunal Electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 192,
+        "text": "Durante el cómputo, ¿qué sucede con los votos reservados de los grupos de trabajo donde hay duda sobre su validez?",
+        "options": [
+            { "text": "Se anulan automáticamente para agilizar el proceso.", "correct": false },
+            { "text": "Se entregan al presidente del consejo para su definición en el Pleno.", "correct": true },
+            { "text": "Se decide su validez por sorteo.", "correct": false },
+            { "text": "Se envían al COTAPREP para análisis estadístico.", "correct": false }
+        ]
+    },
+    {
+        "id": 193,
+        "text": "Un grupo de trabajo en el cómputo distrital está integrado por personal que auxilia en el recuento. ¿Cuál es la función del Vocal presidente del grupo?",
+        "options": [
+            { "text": "Contar los votos físicamente.", "correct": false },
+            { "text": "Instrumentar y coordinar el desarrollo operativo de los recuentos y resolver dudas.", "correct": true },
+            { "text": "Transportar los paquetes de la bodega a la mesa.", "correct": false },
+            { "text": "Capturar los datos en el SIJE.", "correct": false }
+        ]
+    },
+    {
+        "id": 194,
+        "text": "En la sesión de cómputo, se abre la bodega electoral. ¿Quién debe constatar que los sellos no han sido violados?",
+        "options": [
+            { "text": "Únicamente el personal de limpieza.", "correct": false },
+            { "text": "Los consejeros electorales y los representantes de partidos presentes.", "correct": true },
+            { "text": "El ente auditor del PREP.", "correct": false },
+            { "text": "Los observadores electorales extranjeros exclusivamente.", "correct": false }
+        ]
+    },
+    {
+        "id": 195,
+        "text": "Al finalizar el cómputo distrital de mayoría relativa para diputados, ¿qué acto formal realiza el presidente del consejo si no hay inelegibilidad?",
+        "options": [
+            { "text": "Envía los paquetes a la Ciudad de México.", "correct": false },
+            { "text": "Expide la constancia de mayoría y validez.", "correct": true },
+            { "text": "Realiza un nuevo Conteo Rápido de verificación.", "correct": false },
+            { "text": "Publica una encuesta de salida oficial.", "correct": false }
+        ]
+    },
+    {
+        "id": 196,
+        "text": "¿Cómo se determina la Votación Nacional Emitida para la asignación de diputados de Representación Proporcional?",
+        "options": [
+            { "text": "Es el total de votos sacados de las urnas sin descuentos.", "correct": false },
+            { "text": "Restando de la votación total los votos de partidos que no obtuvieron el 3%, independientes, nulos y no registrados.", "correct": true },
+            { "text": "Sumando únicamente los votos de los partidos que ganaron distritos.", "correct": false },
+            { "text": "Es el promedio de votos de los últimos tres procesos electorales.", "correct": false }
+        ]
+    },
+    {
+        "id": 197,
+        "text": "Un partido político nacional tiene el 40% de la votación y se le asignan 250 diputados totales. ¿Cuál es el límite máximo de diputados para evitar la sobrerrepresentación?",
+        "options": [
+            { "text": "300 diputados.", "correct": false },
+            { "text": "Su porcentaje de votación más 8 puntos porcentuales, multiplicado por la integración total de la Cámara.", "correct": true },
+            { "text": "No tiene límite si ganó todos los distritos de mayoría.", "correct": false },
+            { "text": "Máximo 200 diputados por ambos principios.", "correct": false }
+        ]
+    },
+    {
+        "id": 198,
+        "text": "¿Qué autoridad es la encargada de realizar el cómputo de entidad federativa para la elección de senadores?",
+        "options": [
+            { "text": "El Consejo General del INE.", "correct": false },
+            { "text": "Los Consejos Locales.", "correct": true },
+            { "text": "Los Consejos Distritales individualmente.", "correct": false },
+            { "text": "La Cámara de Senadores.", "correct": false }
+        ]
+    },
+    {
+        "id": 199,
+        "text": "Una vez concluidos los procesos electorales y resueltos los medios de impugnación, ¿qué debe aprobar el Consejo General respecto a la documentación?",
+        "options": [
+            { "text": "Su venta como papel reciclado sin control.", "correct": false },
+            { "text": "Su destrucción bajo procedimientos no contaminantes y estricta supervisión.", "correct": true },
+            { "text": "Su almacenamiento permanente en el Archivo General de la Nación.", "correct": false },
+            { "text": "La entrega de las boletas a los partidos para su archivo particular.", "correct": false }
+        ]
+    },
+    {
+        "id": 200,
+        "text": "¿En qué caso NO deben destruirse las boletas electorales tras un proceso?",
+        "options": [
+            { "text": "Si el papel es de mala calidad para el reciclaje.", "correct": false },
+            { "text": "Si son objeto de estudios del INE o forman parte de una investigación de la FEPADE.", "correct": true },
+            { "text": "Si el partido perdedor no lo autoriza por escrito.", "correct": false },
+            { "text": "Si el costo del flete es superior al beneficio económico.", "correct": false }
+        ]
+    },
+    {
+        "id": 201,
+        "text": "¿A qué hora debe estar disponible para acceso y consulta la herramienta informática del SIJE el día de la elección?",
+        "options": [
+            { "text": "A las 09:00 horas.", "correct": false },
+            { "text": "Desde las 7:00 horas del día de la elección.", "correct": true },
+            { "text": "Al momento de instalar la primera casilla.", "correct": false },
+            { "text": "Hasta que cierre la última casilla en el país.", "correct": false }
+        ]
+    },
+    {
+        "id": 202,
+        "text": "Los visitantes extranjeros acreditados por el INE tienen prohibido:",
+        "options": [
+            { "text": "Entrevistarse con funcionarios electorales.", "correct": false },
+            { "text": "Externar cualquier expresión de ofensa o calumnia contra las instituciones o candidatos.", "correct": true },
+            { "text": "Observar el escrutinio y cómputo en la casilla.", "correct": false },
+            { "text": "Portar un gafete de identificación.", "correct": false }
+        ]
+    },
+    {
+        "id": 203,
+        "text": "En el caso de elecciones locales, ¿quién debe publicar las bases de datos que integren los resultados de los cómputos en internet?",
+        "options": [
+            { "text": "La Secretaría de Gobernación.", "correct": false },
+            { "text": "Los OPL, a más tardar cinco días posteriores al cierre de la sesión de cómputo.", "correct": true },
+            { "text": "Únicamente el INE a través de su página central.", "correct": false },
+            { "text": "Los medios de comunicación locales.", "correct": false }
+        ]
+    },
+    {
+        "id": 204,
+        "text": "El informe final de actividades de los observadores electorales debe presentarse ante el INE u OPL en qué plazo?",
+        "options": [
+            { "text": "El mismo día de la jornada.", "correct": false },
+            { "text": "Dentro de los treinta días siguientes a la Jornada Electoral.", "correct": true },
+            { "text": "Un año después del proceso.", "correct": false },
+            { "text": "No es obligatorio presentar informe.", "correct": false }
+        ]
+    },
+    {
+        "id": 205,
+        "text": "¿Qué autoridad suministra el líquido indeleble en las casillas únicas en elecciones concurrentes?",
+        "options": [
+            { "text": "El OPL local.", "correct": false },
+            { "text": "El Instituto Nacional Electoral.", "correct": true },
+            { "text": "La Secretaría de Salud.", "correct": false },
+            { "text": "Una empresa privada contratada por los partidos políticos.", "correct": false }
+        ]
+    },
+    {
+        "id": 206,
+        "text": "Un representante de casilla firma el acta de escrutinio y cómputo \"bajo protesta\". ¿Qué debe hacer el secretario de la mesa directiva?",
+        "options": [
+            { "text": "Anular el acta por falta de consenso.", "correct": false },
+            { "text": "Marcar una X en la columna correspondiente y anotar los motivos al final.", "correct": true },
+            { "text": "Expulsar al representante de la casilla.", "correct": false },
+            { "text": "Ignorar la anotación y entregar copia simple.", "correct": false }
+        ]
+    },
+    {
+        "id": 207,
+        "text": "¿Qué figura coordina la interlocución con los OPL en el grupo de trabajo para el voto de mexicanos residentes en el extranjero?",
+        "options": [
+            { "text": "El Director de Organización Electoral.", "correct": false },
+            { "text": "La Secretaría Técnica designada por DERFE y UTVOPL.", "correct": true },
+            { "text": "El Consejero Presidente del INE.", "correct": false },
+            { "text": "El Secretario de Relaciones Exteriores.", "correct": false }
+        ]
+    },
+    {
+        "id": 208,
+        "text": "¿Cuál es la confianza mínima con la que debe diseñarse la muestra de un Conteo Rápido?",
+        "options": [
+            { "text": "80%.", "correct": false },
+            { "text": "Noventa y cinco por ciento.", "correct": true },
+            { "text": "99% para evitar cualquier error.", "correct": false },
+            { "text": "El porcentaje que decidan los partidos políticos.", "correct": false }
+        ]
+    },
+    {
+        "id": 209,
+        "text": "Un aspirante a consejero de OPL ha sido condenado por un delito no intencional. ¿Es inelegible?",
+        "options": [
+            { "text": "Sí, cualquier condena lo inhabilita.", "correct": false },
+            { "text": "No, el Reglamento permite aspirantes condenados si el delito fue de carácter no intencional o imprudencial.", "correct": true },
+            { "text": "Sí, solo se permiten personas sin antecedentes de tránsito.", "correct": false },
+            { "text": "Solo si la condena fue hace más de 10 años.", "correct": false }
+        ]
+    },
+    {
+        "id": 210,
+        "text": "¿Qué documento deben presentar los partidos antes del inicio de la impresión de boletas para que no haya modificaciones posteriores?",
+        "options": [
+            { "text": "Su lista de representantes generales.", "correct": false },
+            { "text": "El calendario detallado de producción solicitado al impresor.", "correct": true },
+            { "text": "El acta de la asamblea constitutiva.", "correct": false },
+            { "text": "La plataforma electoral digitalizada.", "correct": false }
+        ]
+    },
+    {
+        "id": 211,
+        "text": "El PREP local debe iniciar su publicación entre qué horario local?",
+        "options": [
+            { "text": "A las 20:00 horas obligatoriamente.", "correct": false },
+            { "text": "Entre las 18:00 y las 20:00 horas del horario local de la entidad.", "correct": true },
+            { "text": "Al mediodía del día siguiente.", "correct": false },
+            { "text": "A las 00:00 horas para mayor certeza.", "correct": false }
+        ]
+    },
+    {
+        "id": 212,
+        "text": "¿Quién resuelve las situaciones imprevistas o no contempladas en el capítulo de cómputos de elecciones locales?",
+        "options": [
+            { "text": "El Congreso del Estado.", "correct": false },
+            { "text": "La comisión temporal encargada del seguimiento al proceso electoral respectivo.", "correct": true },
+            { "text": "La Suprema Corte de Justicia.", "correct": false },
+            { "text": "El Gobernador mediante decreto.", "correct": false }
+        ]
+    },
+    {
+        "id": 213,
+        "text": "En la asignación de senadores por RP, ¿cómo se denomina al remanente de la división de votos entre el cociente natural?",
+        "options": [
+            { "text": "Voto nulo sobrante.", "correct": false },
+            { "text": "Resto mayor.", "correct": true },
+            { "text": "Cociente de distribución.", "correct": false },
+            { "text": "Factor de ajuste.", "correct": false }
+        ]
+    },
+    {
+        "id": 214,
+        "text": "Las actualizaciones de las bases de datos del PREP deben realizarse al menos:",
+        "options": [
+            { "text": "Una vez cada hora.", "correct": false },
+            { "text": "Tres veces por hora.", "correct": true },
+            { "text": "Al final de la jornada exclusivamente.", "correct": false },
+            { "text": "Cada vez que llegue un paquete físico.", "correct": false }
+        ]
+    },
+    {
+        "id": 215,
+        "text": "¿Qué criterio se aplica para las sustituciones de candidaturas en elecciones extraordinarias federales?",
+        "options": [
+            { "text": "Pueden ser de cualquier género.", "correct": false },
+            { "text": "Deben ser del mismo género que el de las candidaturas que contendieron en el Proceso Electoral Ordinario.", "correct": true },
+            { "text": "Solo se permiten candidatos independientes.", "correct": false },
+            { "text": "Se eligen por sorteo entre los suplentes del ordinario.", "correct": false }
+        ]
     }
 ]
