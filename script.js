@@ -3,6 +3,10 @@ let selectedQuestions = [];     // Las preguntas seleccionadas al azar
 let currentQuestion = 0;
 let userAnswers = [];
 
+let timerInterval = null;
+let startTime = null;
+let totalTimeSeconds = 0;
+
 const startScreen     = document.getElementById('start-screen');
 const examContent     = document.getElementById('exam-content');
 const numQuestionsInput = document.getElementById('num-questions');
@@ -72,6 +76,13 @@ function startExam() {
     selectedQuestions = getRandomQuestions(allQuestions, desired);
     userAnswers = new Array(selectedQuestions.length).fill(null);
     currentQuestion = 0;
+
+    const tiempoIdealMin = (desired * 1).toFixed(1);
+    document.getElementById('tiempo-ideal').textContent = `${tiempoIdealMin} minutos`;
+
+    // Iniciar temporizador
+    startTimer();
+
 
     // Mostrar examen y ocultar pantalla inicial
     startScreen.classList.add('hidden');
@@ -148,6 +159,8 @@ function renderMap() {
 }
 
 function showResults() {
+    stopTimer();
+
     quizContainer.classList.add('hidden');
     resultsContainer.classList.remove('hidden');
 
@@ -155,28 +168,48 @@ function showResults() {
     let html = '';
 
     selectedQuestions.forEach((q, i) => {
-        const userOriginalIndex = userAnswers[i];
-        const isCorrect = userOriginalIndex !== null && q.options[userOriginalIndex]?.correct === true;
+        const userIndex = userAnswers[i];
+        const isCorrect = userIndex !== null && q.options[userIndex]?.correct === true;
 
         if (isCorrect) correctCount++;
 
-        const userAnswerText = userOriginalIndex !== null 
-            ? q.options[userOriginalIndex].text 
+        const userAnswerText = userIndex !== null 
+            ? q.options[userIndex].text 
             : '(sin responder)';
 
-        const correctAnswer = q.options.find(opt => opt.correct)?.text || '(no definida)';
+        const correctAnswerText = q.options.find(opt => opt.correct)?.text || '(no definida)';
 
         html += `
             <div class="review-item ${isCorrect ? 'correct' : 'incorrect'}">
                 <strong>Pregunta ${i + 1}:</strong> ${q.text}<br>
                 <strong>Tu respuesta:</strong> ${userAnswerText}<br>
-                <strong>Respuesta correcta:</strong> ${correctAnswer}
+                <strong>Respuesta correcta:</strong> ${correctAnswerText}<br>
+                <strong>Sustento legal:</strong> 
+                <span style="color: #00695c; font-style: italic;">${q.sustento || '(No disponible)'}</span>
             </div>
         `;
     });
 
     const percentage = Math.round((correctCount / selectedQuestions.length) * 100);
     scoreEl.innerHTML = `${correctCount}/${selectedQuestions.length} <span style="font-size:1.5rem">(${percentage}%)</span>`;
+    reviewEl.innerHTML = html;
+
+    // Tiempo final
+    const tiempoIdealSegundos = selectedQuestions.length * 60; // 1 min = 60 segundos
+    const diferencia = totalTimeSeconds - tiempoIdealSegundos;
+    
+    let mensajeTiempo = `Tiempo empleado: <strong>${formatTime(totalTimeSeconds)}</strong><br>`;
+    mensajeTiempo += `Tiempo ideal estimado: <strong>${formatTime(tiempoIdealSegundos)}</strong><br>`;
+    
+    if (diferencia > 60) {
+        mensajeTiempo += `<span style="color:#c62828">Te tomaste ${formatTime(Math.abs(diferencia))} más de lo estimado</span>`;
+    } else if (diferencia < -60) {
+        mensajeTiempo += `<span style="color:#2e7d32">Terminaste ${formatTime(Math.abs(diferencia))} antes de lo estimado</span>`;
+    } else {
+        mensajeTiempo += `<span style="color:#00695c">Tiempo muy cercano al estimado ✓</span>`;
+    }
+
+    document.getElementById('tiempo-resultado').innerHTML = mensajeTiempo;
     reviewEl.innerHTML = html;
 }
 
@@ -206,7 +239,11 @@ prevBtn.addEventListener('click', prevQuestion);
 nextBtn.addEventListener('click', nextQuestion);
 
 restartBtn.addEventListener('click', () => {
-    // Volver a la pantalla inicial
+  
+    stopTimer();
+    document.getElementById('timer-display').textContent = '00:00';
+    document.getElementById('tiempo-ideal').textContent = '—';
+
     resultsContainer.classList.add('hidden');
     examContent.classList.add('hidden');
     startScreen.classList.remove('hidden');
@@ -215,6 +252,36 @@ restartBtn.addEventListener('click', () => {
     location.reload();
 
    });
+
+   function startTimer() {
+    if (timerInterval) clearInterval(timerInterval);
+    
+    startTime = Date.now();
+    totalTimeSeconds = 0;
+    
+    timerInterval = setInterval(() => {
+        const elapsed = Math.floor((Date.now() - startTime) / 1000);
+        totalTimeSeconds = elapsed;
+        
+        const minutes = Math.floor(elapsed / 60).toString().padStart(2, '0');
+        const seconds = (elapsed % 60).toString().padStart(2, '0');
+        
+        document.getElementById('timer-display').textContent = `${minutes}:${seconds}`;
+    }, 1000);
+}
+
+function stopTimer() {
+    if (timerInterval) {
+        clearInterval(timerInterval);
+        timerInterval = null;
+    }
+}
+
+function formatTime(seconds) {
+    const min = Math.floor(seconds / 60);
+    const sec = seconds % 60;
+    return `${min} min ${sec.toString().padStart(2, '0')} s`;
+}
 
    // Cargar preguntas al iniciar la página
 loadAllQuestions();

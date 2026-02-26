@@ -11,7 +11,7 @@
 
         <!-- Pantalla inicial -->
         <div id="start-screen" class="start-screen">
-            <h1>Simulador de Exámenes INE</h1>
+            <h1>Simulador de Exámenes para concurso público INE</h1>
             <p>¿Cuántas preguntas deseas responder?</p>
             
             <div class="start-input">
@@ -31,6 +31,12 @@
                     <div id="progress" class="progress"></div>
                 </div>
                 <p id="question-counter" class="counter"></p>
+
+                <div class="timer-container">
+                    <p>Tiempo transcurrido: <span id="timer-display">00:00</span></p>
+                    <p class="timer-estimado">Tiempo ideal estimado: <span id="tiempo-ideal">—</span></p>
+                </div>
+
             </header>
 
             <main id="quiz-container">
@@ -51,8 +57,12 @@
             <!-- Resultados -->
             <div id="results" class="results hidden">
                 <h2>¡Examen finalizado!</h2>
+
+                <div id="tiempo-resultado" class="tiempo-final"></div>
+
                 <div id="score" class="score"></div>
                 <div id="review" class="review"></div>
+                <div class="sustento"></div>
                 <button id="restart-btn" class="restart-btn">Volver al inicio</button>
             </div>
         </div>
