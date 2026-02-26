@@ -52,8 +52,8 @@ async function loadAllQuestions() {
 
 // Iniciar examen con número seleccionado
 function startExam() {
-    const desired = parseInt(numQuestionsInput.value);
-    
+       const desired = parseInt(numQuestionsInput.value);
+        
     if (isNaN(desired) || desired < 1) {
         startError.textContent = "Ingresa un número válido (mínimo 1)";
         startError.classList.remove('hidden');
@@ -212,7 +212,9 @@ restartBtn.addEventListener('click', () => {
     startScreen.classList.remove('hidden');
     numQuestionsInput.value = selectedQuestions.length; // mantener el último número usado
     startError.classList.add('hidden');
-});
+    location.reload();
 
-// Cargar preguntas al iniciar la página
+   });
+
+   // Cargar preguntas al iniciar la página
 loadAllQuestions();
