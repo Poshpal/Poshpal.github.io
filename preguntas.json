@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "text": "Un ciudadano mexicano reside en el extranjero y desea saber si la LGIPE regula su derecho al voto. Según el Artículo 1, ¿cuál es el ámbito de aplicación de esta ley?",
+        "options": [
+            { "text": "Únicamente el territorio nacional.", "correct": false },
+            { "text": "El territorio nacional y para los ciudadanos que ejerzan su sufragio en el extranjero.", "correct": true },
+            { "text": "Solo para elecciones federales en México.", "correct": false },
+            { "text": "Únicamente para partidos políticos nacionales.", "correct": false }
+        ]
+    },
+    {
+        "id": 2,
+        "text": "Una autoridad electoral local tiene duda sobre cómo interpretar una norma de la LGIPE frente a la Constitución. ¿Qué criterio de interpretación es el adecuado según la ley?",
+        "options": [
+            { "text": "Criterio gramatical, sistemático y funcional.", "correct": true },
+            { "text": "Criterio de equidad únicamente.", "correct": false },
+            { "text": "Criterio analógico por encima del gramatical.", "correct": false },
+            { "text": "Criterio basado en usos y costumbres locales.", "correct": false }
+        ]
+    },
+    {
+        "id": 3,
+        "text": "Un partido político nacional busca participar en la renovación de los poderes de la Unión. Según el Artículo 2, ¿qué poderes se incluyen en la organización de elecciones?",
+        "options": [
+            { "text": "Ejecutivo y Legislativo únicamente.", "correct": false },
+            { "text": "Legislativo, Ejecutivo y Judicial.", "correct": true },
+            { "text": "Solo el poder Legislativo.", "correct": false },
+            { "text": "Únicamente Ayuntamientos y Jefatura de Gobierno.", "correct": false }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "Una candidata a diputada federal es víctima de ataques sistemáticos que buscan anular sus derechos políticos por ser mujer. ¿Bajo qué garantía se ejercen los derechos político-electorales?",
+        "options": [
+            { "text": "Bajo el principio de mayoría relativa.", "correct": false },
+            { "text": "Libres de violencia política contra las mujeres en razón de género.", "correct": true },
+            { "text": "Únicamente mediante el registro ante el INE.", "correct": false },
+            { "text": "A través de la fe pública notarial.", "correct": false }
+        ]
+    },
+    {
+        "id": 5,
+        "text": "El Consejo General del INE debe garantizar que en las candidaturas a cargos de elección popular exista una igualdad política. ¿Cómo define la ley la \"Paridad de Género\"?",
+        "options": [
+            { "text": "Asignación del 30% a mujeres.", "correct": false },
+            { "text": "Igualdad política con asignación del 50% mujeres y 50% hombres.", "correct": true },
+            { "text": "Preferencia a mujeres en distritos ganadores.", "correct": false },
+            { "text": "Asignación discrecional según el partido.", "correct": false }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "Un ciudadano desea participar como observador electoral en una consulta popular. ¿Quién determina la forma y términos de esta participación?",
+        "options": [
+            { "text": "El Congreso de la Unión.", "correct": false },
+            { "text": "El Consejo General del Instituto.", "correct": true },
+            { "text": "La Secretaría de Gobernación.", "correct": false },
+            { "text": "El partido político con mayor votación.", "correct": false }
+        ]
+    },
+    {
+        "id": 7,
+        "text": "Un aspirante desea ser candidato a la Presidencia de la República. ¿Cuál es el sistema de elección para este cargo?",
+        "options": [
+            { "text": "Representación proporcional.", "correct": false },
+            { "text": "Mayoría relativa y voto directo de los ciudadanos.", "correct": true },
+            { "text": "Elección indirecta por el Senado.", "correct": false },
+            { "text": "Por sorteo nacional.", "correct": false }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Dos partidos políticos forman una coalición para la elección de senadores. ¿Cómo aparecerán sus emblemas en la boleta electoral?",
+        "options": [
+            { "text": "Los dos emblemas en un mismo cuadro.", "correct": false },
+            { "text": "Cada partido con su propio emblema.", "correct": true },
+            { "text": "Solo el emblema de la coalición.", "correct": false },
+            { "text": "El emblema del partido con mayor antigüedad.", "correct": false }
+        ]
+    },
+    {
+        "id": 9,
+        "text": "Para la asignación de diputados por representación proporcional, ¿qué elementos integran la fórmula de proporcionalidad pura según el Artículo 16?",
+        "options": [
+            { "text": "Cociente natural y resto mayor.", "correct": true },
+            { "text": "Votación total y mayoría relativa.", "correct": false },
+            { "text": "Coeficiente de votación y lista nominal.", "correct": false },
+            { "text": "Porcentaje de afiliación y restos.", "correct": false }
+        ]
+    },
+    {
+        "id": 10,
+        "text": "En una entidad federativa se celebrarán elecciones locales ordinarias. ¿Qué carácter tiene ese día según la LGIPE?",
+        "options": [
+            { "text": "Día laborable normal.", "correct": false },
+            { "text": "Día considerado como no laborable en todo el territorio de la entidad.", "correct": true },
+            { "text": "Solo es descanso para funcionarios públicos.", "correct": false },
+            { "text": "Depende de lo que decida el patrón.", "correct": false }
+        ]
+    },
+    {
+        "id": 11,
+        "text": "El INE requiere recursos para organizar una elección extraordinaria. ¿Cuáles son sus características jurídicas para manejar su patrimonio?",
+        "options": [
+            { "text": "Es un órgano dependiente de la Secretaría de Hacienda.", "correct": false },
+            { "text": "Es un organismo público autónomo con personalidad jurídica y patrimonio propios.", "correct": true },
+            { "text": "Es una dirección ejecutiva del Poder Ejecutivo.", "correct": false },
+            { "text": "Es un comité ciudadano sin presupuesto fijo.", "correct": false }
+        ]
+    },
+    {
+        "id": 12,
+        "text": "El Consejo General del INE debe sesionar, pero el Consejero Presidente se ausenta definitivamente. ¿Cómo se resuelve la presidencia de la sesión?",
+        "options": [
+            { "text": "Se suspende la sesión indefinidamente.", "correct": false },
+            { "text": "El Consejo General designará a uno de los Consejeros Electorales presentes para que presida.", "correct": true },
+            { "text": "El Secretario Ejecutivo asume la presidencia con voto.", "correct": false },
+            { "text": "El titular del Órgano Interno de Control preside.", "correct": false }
+        ]
+    },
+    {
+        "id": 13,
+        "text": "Un partido político solicita que un ciudadano sea registrado como Consejero Electoral del INE. ¿Cuál es un requisito de edad para este cargo?",
+        "options": [
+            { "text": "Tener más de 25 años.", "correct": false },
+            { "text": "Tener más de treinta años de edad el día de la designación.", "correct": true },
+            { "text": "Al menos 40 años cumplidos.", "correct": false },
+            { "text": "No hay requisito de edad mínima.", "correct": false }
+        ]
+    },
+    {
+        "id": 14,
+        "text": "Se busca integrar la Comisión de Capacitación y Organización Electoral en septiembre del año previo a la elección. ¿Cómo se forma según la LGIPE?",
+        "options": [
+            { "text": "Mediante sorteo entre ciudadanos.", "correct": false },
+            { "text": "Por la fusión de las comisiones de Capacitación Electoral y Educación Cívica con la de Organización Electoral.", "correct": true },
+            { "text": "Integrada únicamente por el Secretario Ejecutivo.", "correct": false },
+            { "text": "Por invitación directa del Senado.", "correct": false }
+        ]
+    },
+    {
+        "id": 15,
+        "text": "El Consejo General debe designar al titular de la Secretaría Ejecutiva. ¿Qué votación se requiere para este nombramiento?",
+        "options": [
+            { "text": "Mayoría simple de los presentes.", "correct": false },
+            { "text": "El voto de las dos terceras partes de sus miembros, a propuesta del Presidente.", "correct": true },
+            { "text": "Unanimidad de los Consejeros Electorales.", "correct": false },
+            { "text": "Mayoría absoluta del Senado.", "correct": false }
+        ]
+    },
+    {
+        "id": 16,
+        "text": "Un OPL local no puede organizar su elección por falta de condiciones de paz pública. ¿Qué facultad especial puede ejercer el INE?",
+        "options": [
+            { "text": "Facultad de delegación.", "correct": false },
+            { "text": "Asumir directamente la realización de las actividades de la función electoral (Asunción).", "correct": true },
+            { "text": "Disolver el OPL inmediatamente.", "correct": false },
+            { "text": "Nombrar a un nuevo Gobernador.", "correct": false }
+        ]
+    },
+    {
+        "id": 17,
+        "text": "Un asunto de competencia local es considerado \"trascendente\" por el Consejo General del INE. ¿Qué acción puede tomar?",
+        "options": [
+            { "text": "Ignorar el asunto por ser local.", "correct": false },
+            { "text": "Atraer a su conocimiento cualquier asunto de la competencia de los OPL.", "correct": true },
+            { "text": "Delegar más funciones al OPL.", "correct": false },
+            { "text": "Sancionar al Congreso local.", "correct": false }
+        ]
+    },
+    {
+        "id": 18,
+        "text": "La Junta General Ejecutiva del INE debe reunirse periódicamente. ¿Cuál es la frecuencia mínima de sus reuniones?",
+        "options": [
+            { "text": "Cada seis meses.", "correct": false },
+            { "text": "Por lo menos una vez al mes.", "correct": true },
+            { "text": "Solo durante el proceso electoral.", "correct": false },
+            { "text": "Cada que lo pida el Tribunal Electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 19,
+        "text": "El Secretario Ejecutivo del INE necesita dar fe de un acto que afecta la equidad en la contienda. ¿Qué función ejerce en ese momento?",
+        "options": [
+            { "text": "Función jurisdiccional.", "correct": false },
+            { "text": "Función de oficialía electoral.", "correct": true },
+            { "text": "Función de fiscalización.", "correct": false },
+            { "text": "Función de capacitación.", "correct": false }
+        ]
+    },
+    {
+        "id": 20,
+        "text": "Un ciudadano desea ser Director Ejecutivo del Registro Federal de Electores. ¿Qué requisitos debe cumplir?",
+        "options": [
+            { "text": "Los mismos que para Consejero Electoral del Consejo General (salvo el de nacimiento en algunos casos).", "correct": true },
+            { "text": "Solo ser mayor de 25 años.", "correct": false },
+            { "text": "Ser miembro activo de un partido político.", "correct": false },
+            { "text": "Ser designado directamente por el Presidente de la República.", "correct": false }
+        ]
+    },
+    {
+        "id": 21,
+        "text": "Un ciudadano desea saber quién es responsable de formar el Padrón Electoral. ¿Cuál es la dirección competente?",
+        "options": [
+            { "text": "Dirección Ejecutiva de Prerrogativas.", "correct": false },
+            { "text": "Dirección Ejecutiva del Registro Federal de Electores.", "correct": true },
+            { "text": "Unidad Técnica de lo Contencioso.", "correct": false },
+            { "text": "Junta General Ejecutiva.", "correct": false }
+        ]
+    },
+    {
+        "id": 22,
+        "text": "Un joven cumplirá 18 años el día de la elección federal. ¿Cuándo debe solicitar su inscripción al Padrón Electoral?",
+        "options": [
+            { "text": "El día de su cumpleaños.", "correct": false },
+            { "text": "A más tardar el día 30 de noviembre previo a la elección.", "correct": true },
+            { "text": "Un año antes de la elección.", "correct": false },
+            { "text": "Puede votar solo con su acta de nacimiento.", "correct": false }
+        ]
+    },
+    {
+        "id": 23,
+        "text": "El INE detecta que un ciudadano falleció. ¿Qué acción debe realizar la Dirección Ejecutiva del Registro Federal de Electores?",
+        "options": [
+            { "text": "Mantenerlo en la lista por 10 años.", "correct": false },
+            { "text": "Darlo de baja del Padrón Electoral con la documentación de las autoridades competentes.", "correct": true },
+            { "text": "Notificar a sus familiares para que voten por él.", "correct": false },
+            { "text": "Suspender sus derechos pero dejarlo en el padrón.", "correct": false }
+        ]
+    },
+    {
+        "id": 24,
+        "text": "Una ciudadana perdió su credencial por robo en enero del año de la elección. ¿Hasta cuándo tiene para solicitar la reposición?",
+        "options": [
+            { "text": "Hasta el día de la jornada.", "correct": false },
+            { "text": "A más tardar el último día de enero del año en que se celebren las elecciones.", "correct": true },
+            { "text": "Solo durante la campaña intensa.", "correct": false },
+            { "text": "No hay reposiciones en año electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 25,
+        "text": "El Consejo General sortea una letra del alfabeto para seleccionar a los funcionarios de casilla. ¿En qué mes ocurre este sorteo?",
+        "options": [
+            { "text": "Diciembre.", "correct": false },
+            { "text": "Febrero del año de la elección.", "correct": true },
+            { "text": "Mayo, antes de la jornada.", "correct": false },
+            { "text": "Septiembre del año previo.", "correct": false }
+        ]
+    },
+    {
+        "id": 26,
+        "text": "Un ciudadano desea que su domicilio no sea visible en su credencial para votar. ¿Es esto posible?",
+        "options": [
+            { "text": "No, todos los datos son públicos.", "correct": false },
+            { "text": "Sí, los ciudadanos podrán optar porque aparezca de manera oculta conforme determine el Consejo General.", "correct": true },
+            { "text": "Solo si tiene una orden judicial.", "correct": false },
+            { "text": "Únicamente para funcionarios públicos.", "correct": false }
+        ]
+    },
+    {
+        "id": 27,
+        "text": "¿Qué vigencia tiene la credencial para votar contada a partir de su emisión?",
+        "options": [
+            { "text": "5 años.", "correct": false },
+            { "text": "10 años.", "correct": true },
+            { "text": "Permanente mientras no cambie de domicilio.", "correct": false },
+            { "text": "Hasta que haya una nueva reforma electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 28,
+        "text": "Un partido político desea revisar las listas nominales de electores para formular observaciones. ¿Cuándo debe el INE ponerlas a su disposición?",
+        "options": [
+            { "text": "Solo el día de la elección.", "correct": false },
+            { "text": "En los plazos y términos previstos por la LGIPE para su revisión.", "correct": true },
+            { "text": "Únicamente si el partido lo solicita por escrito al Presidente.", "correct": false },
+            { "text": "Solo después del cómputo distrital.", "correct": false }
+        ]
+    },
+    {
+        "id": 29,
+        "text": "La Dirección Ejecutiva del Registro Federal de Electores debe actualizar la cartografía electoral. ¿Cómo se clasifica esta información?",
+        "options": [
+            { "text": "Por nivel socioeconómico.", "correct": false },
+            { "text": "Por entidad, distrito federal, distrito local, municipio y sección electoral.", "correct": true },
+            { "text": "Por afinidad partidista de la zona.", "correct": false },
+            { "text": "Solamente por códigos postales.", "correct": false }
+        ]
+    },
+    {
+        "id": 30,
+        "text": "El Instituto presta servicios inherentes al Registro Federal de Electores a través de vocalías. ¿En qué juntas se encuentran estas vocalías?",
+        "options": [
+            { "text": "Solo en la Ciudad de México.", "correct": false },
+            { "text": "En las juntas locales y distritales ejecutivas.", "correct": true },
+            { "text": "Únicamente en oficinas municipales.", "correct": false },
+            { "text": "Solo en consulados.", "correct": false }
+        ]
+    },
+    {
+        "id": 31,
+        "text": "El INE tiene acceso a 48 minutos diarios en radio y TV. ¿En qué periodo se activa esta disposición para procesos federales?",
+        "options": [
+            { "text": "Todo el año.", "correct": false },
+            { "text": "A partir del inicio de las precampañas y hasta el día de la jornada electoral.", "correct": true },
+            { "text": "Solo durante los 30 días de campaña.", "correct": false },
+            { "text": "Únicamente los domingos.", "correct": false }
+        ]
+    },
+    {
+        "id": 32,
+        "text": "Un partido político desea transmitir mensajes en radio. ¿Qué órgano es responsable de aprobar las pautas de transmisión?",
+        "options": [
+            { "text": "La Cámara de Diputados.", "correct": false },
+            { "text": "El Comité de Radio y Televisión.", "correct": true },
+            { "text": "La Secretaría de Gobernación.", "correct": false },
+            { "text": "El Tribunal Electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 33,
+        "text": "Un candidato independiente quiere saber quién fiscaliza sus ingresos de campaña. ¿Qué autoridad es la encargada?",
+        "options": [
+            { "text": "La Auditoría Superior de la Federación.", "correct": false },
+            { "text": "La Unidad Técnica de Fiscalización de la Comisión de Fiscalización del INE.", "correct": true },
+            { "text": "El Servicio de Administración Tributaria (SAT).", "correct": false },
+            { "text": "La Tesorería de la Federación.", "correct": false }
+        ]
+    },
+    {
+        "id": 34,
+        "text": "Una autoridad bancaria se niega a entregar información al INE alegando secreto bancario. ¿Tiene el INE facultad para superar este secreto?",
+        "options": [
+            { "text": "No, el secreto bancario es inviolable.", "correct": false },
+            { "text": "Sí, a través de la Unidad Técnica de Fiscalización para el cumplimiento de sus atribuciones.", "correct": true },
+            { "text": "Solo con una orden de un Juez Penal.", "correct": false },
+            { "text": "Únicamente si el cliente autoriza.", "correct": false }
+        ]
+    },
+    {
+        "id": 35,
+        "text": "Un partido político omite presentar su informe anual de gastos. ¿Qué sanción puede aplicar el Consejo General?",
+        "options": [
+            { "text": "Solo una llamada de atención privada.", "correct": false },
+            { "text": "Reducción de hasta el 50% de las ministraciones del financiamiento público según la gravedad.", "correct": true },
+            { "text": "Expulsión de todos sus militantes.", "correct": false },
+            { "text": "El INE no puede sancionar por temas financieros.", "correct": false }
+        ]
+    },
+    {
+        "id": 36,
+        "text": "El Consejo General debe determinar los topes de gastos de campaña para Presidente. ¿Cuándo debe hacerlo?",
+        "options": [
+            { "text": "Una semana antes de la jornada.", "correct": false },
+            { "text": "A más tardar el día último de octubre del año anterior al de la elección.", "correct": true },
+            { "text": "Al inicio de las precampañas.", "correct": false },
+            { "text": "El día que se registre el primer candidato.", "correct": false }
+        ]
+    },
+    {
+        "id": 37,
+        "text": "Un medio de comunicación difunde noticias sobre las campañas. El INE realiza un monitoreo de estas noticias. ¿Con qué frecuencia se publican los resultados?",
+        "options": [
+            { "text": "Cada año.", "correct": false },
+            { "text": "Por lo menos cada quince días.", "correct": true },
+            { "text": "Solo al final de la elección.", "correct": false },
+            { "text": "Diariamente en cadena nacional.", "correct": false }
+        ]
+    },
+    {
+        "id": 38,
+        "text": "Los partidos políticos tienen derecho a franquicias postales. ¿Quiénes pueden hacer uso de ellas?",
+        "options": [
+            { "text": "Cualquier militante con credencial del partido.", "correct": false },
+            { "text": "Los comités directivos de cada partido nacional.", "correct": true },
+            { "text": "Únicamente los candidatos a la presidencia.", "correct": false },
+            { "text": "Empresas privadas que apoyen al partido.", "correct": false }
+        ]
+    },
+    {
+        "id": 39,
+        "text": "Un aspirante a candidato independiente recibe donaciones en efectivo de una persona moral mexicana. ¿Es esto legal?",
+        "options": [
+            { "text": "Sí, si el monto es pequeño.", "correct": false },
+            { "text": "No, tienen prohibido recibir aportaciones de empresas mexicanas de carácter mercantil.", "correct": true },
+            { "text": "Sí, siempre que se reporte al SAT.", "correct": false },
+            { "text": "Solo si la empresa es proveedora del INE.", "correct": false }
+        ]
+    },
+    {
+        "id": 40,
+        "text": "¿Cuál es el tope máximo de financiamiento privado para un candidato independiente respecto al tope de gasto de la elección?",
+        "options": [
+            { "text": "50%.", "correct": false },
+            { "text": "No podrá rebasar en ningún caso el 10%.", "correct": true },
+            { "text": "100% si no usa recursos públicos.", "correct": false },
+            { "text": "Lo que decida su comité de campaña.", "correct": false }
+        ]
+    },
+    {
+        "id": 41,
+        "text": "El proceso electoral ordinario federal inicia con la primera sesión del Consejo General. ¿En qué periodo ocurre esto?",
+        "options": [
+            { "text": "En enero del año de la elección.", "correct": false },
+            { "text": "En los primeros siete días del mes de septiembre del año previo a la elección.", "correct": true },
+            { "text": "El primer domingo de junio.", "correct": false },
+            { "text": "Cuando el Presidente de la República lo convoque.", "correct": false }
+        ]
+    },
+    {
+        "id": 42,
+        "text": "Una candidata a senadora por mayoría relativa debe registrarse por fórmulas. ¿Cómo deben integrarse estas fórmulas?",
+        "options": [
+            { "text": "Solo por hombres.", "correct": false },
+            { "text": "Por una persona propietaria y una suplente del mismo género.", "correct": true },
+            { "text": "Propietario hombre y suplente mujer obligatoriamente.", "correct": false },
+            { "text": "No importa el género si tienen experiencia.", "correct": false }
+        ]
+    },
+    {
+        "id": 43,
+        "text": "Un partido político presenta listas de representación proporcional para diputados. ¿Qué regla de alternancia debe seguir?",
+        "options": [
+            { "text": "Todas las mujeres primero.", "correct": false },
+            { "text": "Se alternarán las fórmulas de distinto género hasta agotar la lista.", "correct": true },
+            { "text": "El orden es libre para el partido.", "correct": false },
+            { "text": "Solo se requiere una mujer por cada cinco hombres.", "correct": false }
+        ]
+    },
+    {
+        "id": 44,
+        "text": "Se detecta propaganda electoral impresa en una ciudad. ¿Qué requisito debe cumplir el material según el Artículo 209?",
+        "options": [
+            { "text": "Ser de colores brillantes.", "correct": false },
+            { "text": "Ser reciclable y fabricada con materiales biodegradables sin sustancias tóxicas.", "correct": true },
+            { "text": "Incluir la fotografía del Presidente del INE.", "correct": false },
+            { "text": "Estar pegada únicamente en monumentos históricos.", "correct": false }
+        ]
+    },
+    {
+        "id": 45,
+        "text": "Una empresa quiere realizar una encuesta de salida el día de la jornada electoral. ¿Cuándo puede difundir los resultados?",
+        "options": [
+            { "text": "A las 12:00 del día.", "correct": false },
+            { "text": "Hasta la hora del cierre oficial de las casillas en las zonas de husos horarios más occidentales.", "correct": true },
+            { "text": "En cuanto tenga los datos procesados.", "correct": false },
+            { "text": "Tres días antes de la elección.", "correct": false }
+        ]
+    },
+    {
+        "id": 46,
+        "text": "El INE debe instalar casillas especiales. ¿Para quiénes están diseñadas estas casillas?",
+        "options": [
+            { "text": "Para ciudadanos que no quieren hacer fila.", "correct": false },
+            { "text": "Para electores que se encuentren transitoriamente fuera de su sección.", "correct": true },
+            { "text": "Únicamente para funcionarios públicos.", "correct": false },
+            { "text": "Para personas extranjeras.", "correct": false }
+        ]
+    },
+    {
+        "id": 47,
+        "text": "¿Cuál es el número máximo de electores que puede tener una sección electoral?",
+        "options": [
+            { "text": "750.", "correct": false },
+            { "text": "3,000.", "correct": true },
+            { "text": "10,000.", "correct": false },
+            { "text": "No hay límite.", "correct": false }
+        ]
+    },
+    {
+        "id": 48,
+        "text": "Se instalan las mesas directivas de casilla en elecciones concurrentes. ¿Qué tipo de casilla debe instalarse?",
+        "options": [
+            { "text": "Dos casillas separadas, una federal y una local.", "correct": false },
+            { "text": "Una mesa directiva de casilla única para ambos tipos de elección.", "correct": true },
+            { "text": "Solo la casilla federal, los votos locales se cuentan después.", "correct": false },
+            { "text": "Una casilla digital únicamente.", "correct": false }
+        ]
+    },
+    {
+        "id": 49,
+        "text": "¿A qué hora se inicia legalmente la etapa de la jornada electoral?",
+        "options": [
+            { "text": "A las 6:00 horas.", "correct": false },
+            { "text": "A las 8:00 horas del primer domingo de junio.", "correct": true },
+            { "text": "Cuando se abra la primera casilla del país.", "correct": false },
+            { "text": "A la medianoche del sábado.", "correct": false }
+        ]
+    },
+    {
+        "id": 50,
+        "text": "Un ciudadano llega a votar a las 18:05 horas y ya no hay electores en fila. ¿Qué debe hacer el presidente de casilla?",
+        "options": [
+            { "text": "Dejarlo votar por cortesía.", "correct": false },
+            { "text": "Cerrar la votación a las 18:00 horas, salvo que haya electores formados.", "correct": true },
+            { "text": "Llamar al INE para pedir permiso.", "correct": false },
+            { "text": "Mantener abierta la casilla hasta las 20:00 horas.", "correct": false }
+        ]
+    },
+    {
+        "id": 51,
+        "text": "¿En qué orden se realiza el escrutinio y cómputo de las elecciones federales en la casilla?",
+        "options": [
+            { "text": "Diputados, Senadores y Presidente.", "correct": false },
+            { "text": "Presidente, Senadores, Diputados y Consulta Popular.", "correct": true },
+            { "text": "Al mismo tiempo todos los paquetes.", "correct": false },
+            { "text": "Primero la elección local y luego la federal.", "correct": false }
+        ]
+    },
+    {
+        "id": 52,
+        "text": "Un secretario de casilla debe inutilizar las boletas sobrantes. ¿Cómo debe hacerlo según la ley?",
+        "options": [
+            { "text": "Quemándolas.", "correct": false },
+            { "text": "Por medio de dos rayas diagonales con tinta.", "correct": true },
+            { "text": "Guardándolas en su maleta personal.", "correct": false },
+            { "text": "Tachando el nombre de todos los candidatos.", "correct": false }
+        ]
+    },
+    {
+        "id": 53,
+        "text": "Un elector marca dos cuadros de partidos distintos que NO están en coalición. ¿Cómo se califica el voto?",
+        "options": [
+            { "text": "Voto válido para el partido con más votos.", "correct": false },
+            { "text": "Voto nulo.", "correct": true },
+            { "text": "Voto para candidato no registrado.", "correct": false },
+            { "text": "Se le permite votar de nuevo.", "correct": false }
+        ]
+    },
+    {
+        "id": 54,
+        "text": "¿Cuándo inician los consejos distritales la sesión para hacer el cómputo de las elecciones?",
+        "options": [
+            { "text": "El domingo por la noche.", "correct": false },
+            { "text": "A partir de las 8:00 horas del miércoles siguiente al día de la jornada electoral.", "correct": true },
+            { "text": "Inmediatamente después de recibir el primer paquete.", "correct": false },
+            { "text": "El lunes por la mañana.", "correct": false }
+        ]
+    },
+    {
+        "id": 55,
+        "text": "Durante el cómputo distrital, se observa que los votos nulos son mayores a la diferencia entre el primer y segundo lugar. ¿Qué debe hacerse?",
+        "options": [
+            { "text": "Declarar empate.", "correct": false },
+            { "text": "Realizar nuevamente el escrutinio y cómputo de la casilla (recuento).", "correct": true },
+            { "text": "Anular la casilla definitivamente.", "correct": false },
+            { "text": "Sorteo para decidir al ganador.", "correct": false }
+        ]
+    },
+    {
+        "id": 56,
+        "text": "Un partido solicita el recuento total de votos de un distrito porque la diferencia es de 0.5%. ¿Es procedente?",
+        "options": [
+            { "text": "No, la ley no permite recuentos totales.", "correct": false },
+            { "text": "Sí, cuando existe una diferencia igual o menor a un punto porcentual entre el primero y segundo lugar.", "correct": true },
+            { "text": "Solo si lo autoriza el Tribunal Electoral.", "correct": false },
+            { "text": "Solo si faltan actas de escrutinio.", "correct": false }
+        ]
+    },
+    {
+        "id": 57,
+        "text": "El presidente de un consejo distrital termina el cómputo y declaración de validez de diputados de mayoría relativa. ¿Qué documento debe expedir?",
+        "options": [
+            { "text": "Un diploma de honor.", "correct": false },
+            { "text": "La Constancia de Mayoría y Validez.", "correct": true },
+            { "text": "Un acta de entrega-recepción únicamente.", "correct": false },
+            { "text": "El cheque para los gastos de campaña.", "correct": false }
+        ]
+    },
+    {
+        "id": 58,
+        "text": "¿Quién realiza el cómputo de entidad federativa para la elección de senadores por ambos principios?",
+        "options": [
+            { "text": "Los consejos distritales.", "correct": false },
+            { "text": "Los consejos locales el domingo siguiente al de la jornada.", "correct": true },
+            { "text": "El Consejo General en la Ciudad de México.", "correct": false },
+            { "text": "El Senado de la República.", "correct": false }
+        ]
+    },
+    {
+        "id": 59,
+        "text": "El Consejo General debe asignar senadores por representación proporcional. ¿Cuál es la fecha límite para esto?",
+        "options": [
+            { "text": "El día de la elección.", "correct": false },
+            { "text": "A más tardar el 23 de agosto del año de la elección.", "correct": true },
+            { "text": "Cuando se instale la Cámara.", "correct": false },
+            { "text": "El 1 de diciembre.", "correct": false }
+        ]
+    },
+    {
+        "id": 60,
+        "text": "¿Qué se entiende por \"boletas sobrantes\" en una casilla?",
+        "options": [
+            { "text": "Las que se perdieron en el traslado.", "correct": false },
+            { "text": "Aquellas que, habiendo sido entregadas a la mesa directiva, no fueron utilizadas por los electores.", "correct": true },
+            { "text": "Las que fueron marcadas dos veces.", "correct": false },
+            { "text": "Las que no tienen el sello del INE.", "correct": false }
+        ]
+    },
+    {
+        "id": 61,
+        "text": "Un ciudadano en el extranjero desea votar. ¿Qué documento es indispensable según el Artículo 330?",
+        "options": [
+            { "text": "Pasaporte vigente.", "correct": false },
+            { "text": "Estar inscrito en el padrón electoral y listado nominal de ciudadanos residentes en el extranjero.", "correct": true },
+            { "text": "Carta de naturalización del país donde reside.", "correct": false },
+            { "text": "Un comprobante de domicilio en México únicamente.", "correct": false }
+        ]
+    },
+    {
+        "id": 62,
+        "text": "¿Cuál es el plazo para que los ciudadanos en el extranjero envíen su solicitud de inscripción a la lista nominal?",
+        "options": [
+            { "text": "Solo en el mes de mayo.", "correct": false },
+            { "text": "Entre el 1 de septiembre y el 15 de diciembre del año previo a la elección.", "correct": true },
+            { "text": "Cualquier día del año electoral.", "correct": false },
+            { "text": "Después de que cierren las casillas en México.", "correct": false }
+        ]
+    },
+    {
+        "id": 63,
+        "text": "Los ciudadanos en el extranjero pueden elegir su modalidad de voto. ¿Cuáles son las opciones según la ley?",
+        "options": [
+            { "text": "Solo por teléfono.", "correct": false },
+            { "text": "Correo, entrega personal en módulos en embajadas/consulados, o vía electrónica.", "correct": true },
+            { "text": "Únicamente por correo certificado.", "correct": false },
+            { "text": "Por representante legal en México.", "correct": false }
+        ]
+    },
+    {
+        "id": 64,
+        "text": "¿A qué hora inicia el escrutinio y cómputo de la votación emitida en el extranjero el día de la jornada?",
+        "options": [
+            { "text": "A las 8:00 horas.", "correct": false },
+            { "text": "A las 18:00 horas.", "correct": true },
+            { "text": "El lunes siguiente a la elección.", "correct": false },
+            { "text": "Cuando llegue el último sobre por correo.", "correct": false }
+        ]
+    },
+    {
+        "id": 65,
+        "text": "Un ciudadano desea ser Candidato Independiente a la Presidencia. ¿Qué porcentaje de apoyo ciudadano requiere respecto a la lista nominal nacional?",
+        "options": [
+            { "text": "3%.", "correct": false },
+            { "text": "1%.", "correct": true },
+            { "text": "5% distribuido en todo el país.", "correct": false },
+            { "text": "0.5%.", "correct": false }
+        ]
+    },
+    {
+        "id": 66,
+        "text": "Un aspirante a candidato independiente a Senador debe recabar apoyo ciudadano en una entidad. ¿Qué requisito de distribución geográfica tiene?",
+        "options": [
+            { "text": "En todos los municipios del estado.", "correct": false },
+            { "text": "En por lo menos la mitad de los distritos electorales que sumen como mínimo el 1% de la lista nominal en cada uno.", "correct": true },
+            { "text": "Solo en la capital del estado.", "correct": false },
+            { "text": "No hay requisito de distribución, solo el total de firmas.", "correct": false }
+        ]
+    },
+    {
+        "id": 67,
+        "text": "Un Candidato Independiente gana una elección que posteriormente es anulada. ¿Tiene derecho a participar en la extraordinaria?",
+        "options": [
+            { "text": "No, las extraordinarias son solo para partidos.", "correct": false },
+            { "text": "Sí, tienen derecho a participar en las elecciones extraordinarias correspondientes.", "correct": true },
+            { "text": "Solo si vuelve a juntar las firmas.", "correct": false },
+            { "text": "Únicamente si se afilia a un partido.", "correct": false }
+        ]
+    },
+    {
+        "id": 68,
+        "text": "¿Cómo aparecerá el nombre del Candidato Independiente en la boleta electoral?",
+        "options": [
+            { "text": "Con el logotipo de su asociación civil.", "correct": false },
+            { "text": "Su nombre completo.", "correct": true },
+            { "text": "Solo con su sobrenombre.", "correct": false },
+            { "text": "Al final de la boleta en letras pequeñas.", "correct": false }
+        ]
+    },
+    {
+        "id": 69,
+        "text": "Un aspirante independiente no presenta su informe de ingresos y egresos para actos de apoyo ciudadano. ¿Qué consecuencia tiene según el Artículo 456?",
+        "options": [
+            { "text": "Ninguna, es un ciudadano libre.", "correct": false },
+            { "text": "No podrá ser registrado como candidato en las dos elecciones subsecuentes.", "correct": true },
+            { "text": "Se le otorga una prórroga de un año.", "correct": false },
+            { "text": "Solo una multa de 10 días de salario.", "correct": false }
+        ]
+    },
+    {
+        "id": 70,
+        "text": "¿Quién es responsable de la organización de la elección de candidaturas independientes a nivel central?",
+        "options": [
+            { "text": "La Secretaría de Gobernación.", "correct": false },
+            { "text": "Las direcciones ejecutivas y unidades técnicas del Instituto en el ámbito central.", "correct": true },
+            { "text": "El Tribunal Electoral únicamente.", "correct": false },
+            { "text": "Los partidos políticos coaligados.", "correct": false }
+        ]
+    },
+    {
+        "id": 71,
+        "text": "Un ciudadano presenta una queja que resulta ser \"frívola\". ¿Cómo define la ley una queja frívola?",
+        "options": [
+            { "text": "Una queja que da risa.", "correct": false },
+            { "text": "Aquellas que refieran hechos falsos o inexistentes y no presenten pruebas mínimas.", "correct": true },
+            { "text": "Una queja presentada por un partido pequeño.", "correct": false },
+            { "text": "Una queja enviada por correo electrónico.", "correct": false }
+        ]
+    },
+    {
+        "id": 72,
+        "text": "Durante un proceso electoral, se denuncia un acto anticipado de campaña. ¿Qué procedimiento debe instruirse?",
+        "options": [
+            { "text": "Procedimiento Ordinario Sancionador.", "correct": false },
+            { "text": "Procedimiento Especial Sancionador.", "correct": true },
+            { "text": "Juicio de Amparo.", "correct": false },
+            { "text": "Recurso de Revisión.", "correct": false }
+        ]
+    },
+    {
+        "id": 73,
+        "text": "Una autoridad del INE considera necesaria la adopción de medidas cautelares en una queja. ¿A quién debe proponerlas para su resolución?",
+        "options": [
+            { "text": "Al Presidente de la República.", "correct": false },
+            { "text": "A la Comisión de Quejas y Denuncias.", "correct": true },
+            { "text": "Al Senado.", "correct": false },
+            { "text": "Al Director de Administración.", "correct": false }
+        ]
+    },
+    {
+        "id": 74,
+        "text": "En un Procedimiento Especial Sancionador, ¿cuáles son las únicas pruebas admitidas?",
+        "options": [
+            { "text": "Confesional y pericial genética.", "correct": false },
+            { "text": "Documental y técnica.", "correct": true },
+            { "text": "Testimonial de 10 personas mínimo.", "correct": false },
+            { "text": "Pruebas de polígrafo.", "correct": false }
+        ]
+    },
+    {
+        "id": 75,
+        "text": "Una vez celebrada la audiencia de pruebas y alegatos en un procedimiento especial, ¿qué debe hacer la Unidad Técnica de lo Contencioso?",
+        "options": [
+            { "text": "Dictar sentencia definitiva.", "correct": false },
+            { "text": "Turnar de forma inmediata el expediente a la Sala Superior del Tribunal Electoral.", "correct": true },
+            { "text": "Archivar el caso si no hay pruebas.", "correct": false },
+            { "text": "Enviar el expediente al Congreso local.", "correct": false }
+        ]
+    },
+    {
+        "id": 76,
+        "text": "¿Qué autoridad es la competente para resolver el fondo del Procedimiento Especial Sancionador?",
+        "options": [
+            { "text": "El Consejo General del INE.", "correct": false },
+            { "text": "La Sala Superior del Tribunal Electoral.", "correct": true },
+            { "text": "La Suprema Corte de Justicia.", "correct": false },
+            { "text": "El Ministerio Público.", "correct": false }
+        ]
+    },
+    {
+        "id": 77,
+        "text": "Un notario público se niega injustificadamente a atender una solicitud el día de la elección. ¿Qué tipo de falta comete?",
+        "options": [
+            { "text": "No es una falta electoral.", "correct": false },
+            { "text": "Una conducta sancionable según el Artículo 442 de la LGIPE.", "correct": true },
+            { "text": "Solo una falta ética profesional.", "correct": false },
+            { "text": "Una falta que solo conoce el Colegio de Notarios.", "correct": false }
+        ]
+    },
+    {
+        "id": 78,
+        "text": "Los recursos obtenidos por multas electorales federales, ¿a qué institución se destinan?",
+        "options": [
+            { "text": "Al presupuesto del INE para el siguiente año.", "correct": false },
+            { "text": "Al Consejo Nacional de Ciencia y Tecnología (CONACYT).", "correct": true },
+            { "text": "A la Tesorería de los partidos políticos.", "correct": false },
+            { "text": "Al fondo de pensiones de los magistrados.", "correct": false }
+        ]
+    },
+    {
+        "id": 79,
+        "text": "Un servidor público utiliza programas sociales para inducir el voto a favor de un candidato. ¿Ante quién se da vista?",
+        "options": [
+            { "text": "Al superior jerárquico y a la autoridad competente por responsabilidades administrativas o penales.", "correct": true },
+            { "text": "Únicamente al Director del programa social.", "correct": false },
+            { "text": "Al partido político del servidor público.", "correct": false },
+            { "text": "La ley no prevé sanciones para servidores públicos.", "correct": false }
+        ]
+    },
+    {
+        "id": 80,
+        "text": "¿Qué plazo tiene la Sala Superior para resolver un asunto del Procedimiento Especial Sancionador tras distribuirse el proyecto?",
+        "options": [
+            { "text": "30 días.", "correct": false },
+            { "text": "Veinticuatro horas.", "correct": true },
+            { "text": "Un año.", "correct": false },
+            { "text": "Cuando termine el proceso electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 81,
+        "text": "Según la reforma de octubre de 2024, ¿cómo serán electas las personas ministras de la Suprema Corte de Justicia de la Nación?",
+        "options": [
+            { "text": "Designación directa del Presidente.", "correct": false },
+            { "text": "Por mayoría relativa y voto directo de la ciudadanía.", "correct": true },
+            { "text": "Por sorteo entre abogados con 20 años de experiencia.", "correct": false },
+            { "text": "Por votación exclusiva de los jueces de distrito.", "correct": false }
+        ]
+    },
+    {
+        "id": 82,
+        "text": "¿A qué nivel territorial se lleva a cabo la elección de las personas magistradas de la Sala Superior del Tribunal Electoral?",
+        "options": [
+            { "text": "Por circuito judicial.", "correct": false },
+            { "text": "A nivel nacional.", "correct": true },
+            { "text": "Únicamente en la Ciudad de México.", "correct": false },
+            { "text": "Por circunscripción plurinominal.", "correct": false }
+        ]
+    },
+    {
+        "id": 83,
+        "text": "¿Cuándo inicia la etapa de preparación de la elección de personas juzgadoras del Poder Judicial de la Federación?",
+        "options": [
+            { "text": "El día de la convocatoria del Senado.", "correct": false },
+            { "text": "Con la primera sesión del Consejo General del INE en los primeros siete días de septiembre del año anterior.", "correct": true },
+            { "text": "En enero del año de la elección.", "correct": false },
+            { "text": "El día de la jornada electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 84,
+        "text": "¿Qué autoridad emite la convocatoria general para integrar el listado de candidaturas al Poder Judicial?",
+        "options": [
+            { "text": "El INE.", "correct": false },
+            { "text": "El Senado de la República.", "correct": true },
+            { "text": "La Suprema Corte de Justicia.", "correct": false },
+            { "text": "El Consejo de la Judicatura.", "correct": false }
+        ]
+    },
+    {
+        "id": 85,
+        "text": "¿Cuántas personas integrarán cada Comité de Evaluación de los Poderes de la Unión para seleccionar candidatos a jueces?",
+        "options": [
+            { "text": "Tres personas.", "correct": false },
+            { "text": "Cinco personas de reconocido prestigio en la actividad jurídica.", "correct": true },
+            { "text": "Diez personas elegidas por sorteo.", "correct": false },
+            { "text": "Solo los titulares de cada Poder.", "correct": false }
+        ]
+    },
+    {
+        "id": 86,
+        "text": "¿Cuál es un requisito para integrar un Comité de Evaluación según el Artículo 500?",
+        "options": [
+            { "text": "Ser militante de un partido.", "correct": false },
+            { "text": "Contar con título de licenciatura en derecho con antigüedad mínima de cinco años.", "correct": true },
+            { "text": "Haber sido Ministro de la Corte anteriormente.", "correct": false },
+            { "text": "Ser menor de 30 años.", "correct": false }
+        ]
+    },
+    {
+        "id": 87,
+        "text": "Los Comités de Evaluación deben calificar la idoneidad de los aspirantes. ¿Qué elemento deben realizar obligatoriamente?",
+        "options": [
+            { "text": "Un examen de conocimientos médicos.", "correct": false },
+            { "text": "Entrevistas públicas.", "correct": true },
+            { "text": "Una encuesta de popularidad.", "correct": false },
+            { "text": "Una revisión de sus redes sociales únicamente.", "correct": false }
+        ]
+    },
+    {
+        "id": 88,
+        "text": "En caso de empate en la votación del Poder Judicial para aprobar listados, ¿cuántos votos se requieren en la Suprema Corte?",
+        "options": [
+            { "text": "Mayoría simple.", "correct": false },
+            { "text": "Votación favorable de ocho votos de las Ministras y Ministros.", "correct": true },
+            { "text": "Unanimidad.", "correct": false },
+            { "text": "Solo el voto de la Presidenta.", "correct": false }
+        ]
+    },
+    {
+        "id": 89,
+        "text": "El INE debe organizar foros de debate para los candidatos a jueces. ¿Qué restricción tienen estos candidatos respecto al financiamiento?",
+        "options": [
+            { "text": "Pueden recibir donaciones privadas limitadas.", "correct": false },
+            { "text": "Ninguna persona candidata podrá recibir financiamiento público o privado en sus campañas.", "correct": true },
+            { "text": "Solo pueden usar recursos propios.", "correct": false },
+            { "text": "El Senado les paga toda la propaganda.", "correct": false }
+        ]
+    },
+    {
+        "id": 90,
+        "text": "¿Qué tipo de propaganda electoral está permitida para las candidaturas a juzgadoras?",
+        "options": [
+            { "text": "Anuncios en radio y TV contratados por el candidato.", "correct": false },
+            { "text": "Solo impresa en papel reciclable y biodegradable.", "correct": true },
+            { "text": "Bardas pintadas en edificios públicos.", "correct": false },
+            { "text": "No está permitida ninguna propaganda.", "correct": false }
+        ]
+    },
+    {
+        "id": 91,
+        "text": "¿Pueden los candidatos a jueces contratar espacios publicitarios en medios digitales?",
+        "options": [
+            { "text": "Sí, sin límite de gasto.", "correct": false },
+            { "text": "Queda prohibida la contratación de espacios publicitarios y de promoción personal en medios impresos o digitales.", "correct": true },
+            { "text": "Solo si el INE lo autoriza.", "correct": false },
+            { "text": "Únicamente en Facebook.", "correct": false }
+        ]
+    },
+    {
+        "id": 92,
+        "text": "¿Qué herramienta utilizará el INE para difundir los perfiles e historial profesional de las candidaturas a jueces?",
+        "options": [
+            { "text": "Una gaceta impresa semanal.", "correct": false },
+            { "text": "Un micrositio en la página de Internet oficial del Instituto.", "correct": true },
+            { "text": "Spots de 30 segundos para cada candidato.", "correct": false },
+            { "text": "Mensajes de texto masivos.", "correct": false }
+        ]
+    },
+    {
+        "id": 93,
+        "text": "¿Quién es responsable de la fiscalización de los ingresos y egresos de los candidatos a jueces?",
+        "options": [
+            { "text": "El Consejo de la Judicatura Federal.", "correct": false },
+            { "text": "El Consejo General del Instituto.", "correct": true },
+            { "text": "El Tribunal Federal de Justicia Administrativa.", "correct": false },
+            { "text": "La Cámara de Diputados.", "correct": false }
+        ]
+    },
+    {
+        "id": 94,
+        "text": "Durante la jornada electoral de jueces, ¿cómo se determina la validez de un voto en la boleta?",
+        "options": [
+            { "text": "Debe marcarse una sola opción forzosamente.", "correct": false },
+            { "text": "Por la marca en favor de una candidatura claramente identificable, pudiendo emitirse más de un voto según determine el Instituto.", "correct": true },
+            { "text": "Escribiendo el nombre completo del juez.", "correct": false },
+            { "text": "Pegando una estampa del candidato.", "correct": false }
+        ]
+    },
+    {
+        "id": 95,
+        "text": "Una vez terminada la sumatoria final de la elección de jueces, ¿quién asigna los cargos por materia de especialización?",
+        "options": [
+            { "text": "El Senado.", "correct": false },
+            { "text": "El Consejo General del INE.", "correct": true },
+            { "text": "La Presidenta de la República.", "correct": false },
+            { "text": "El Tribunal de Disciplina Judicial.", "correct": false }
+        ]
+    },
+    {
+        "id": 96,
+        "text": "Un juez en funciones desea participar en la elección para el mismo cargo. ¿Debe pasar por el Comité de Evaluación?",
+        "options": [
+            { "text": "Sí, como cualquier ciudadano.", "correct": false },
+            { "text": "Son incorporados a los listados por pase directo, salvo que declinen.", "correct": true },
+            { "text": "No, ellos son designados automáticamente por el Senado.", "correct": false },
+            { "text": "Solo si tienen menos de 10 años en el cargo.", "correct": false }
+        ]
+    },
+    {
+        "id": 97,
+        "text": "¿Cuál es el nivel jerárquico del titular del Órgano Interno de Control del INE?",
+        "options": [
+            { "text": "Consejero Electoral.", "correct": false },
+            { "text": "Equivalente a Director Ejecutivo.", "correct": true },
+            { "text": "Secretario Técnico.", "correct": false },
+            { "text": "Jefe de Departamento.", "correct": false }
+        ]
+    },
+    {
+        "id": 98,
+        "text": "¿Quién designa al titular del Órgano Interno de Control del INE?",
+        "options": [
+            { "text": "El Presidente de la República.", "correct": false },
+            { "text": "La Cámara de Diputados con el voto de las dos terceras partes.", "correct": true },
+            { "text": "El Consejo General del INE.", "correct": false },
+            { "text": "La Suprema Corte.", "correct": false }
+        ]
+    },
+    {
+        "id": 99,
+        "text": "Las sesiones de los consejos del INE tienen una característica especial. ¿Cuál es?",
+        "options": [
+            { "text": "Son privadas para proteger los datos.", "correct": false },
+            { "text": "Son públicas.", "correct": true },
+            { "text": "Solo para militantes de partidos.", "correct": false },
+            { "text": "Se realizan únicamente en año no electoral.", "correct": false }
+        ]
+    },
+    {
+        "id": 100,
+        "text": "En los procesos electorales federales, ¿cómo se computan los plazos de días y horas?",
+        "options": [
+            { "text": "Solo días hábiles (lunes a viernes).", "correct": false },
+            { "text": "Todos los días y horas son hábiles.", "correct": true },
+            { "text": "Según el calendario de la SEP.", "correct": false },
+            { "text": "Los fines de semana no cuentan para notificaciones.", "correct": false }
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Preguntas Temas Electorales</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+
+        <!-- Pantalla inicial -->
+        <div id="start-screen" class="start-screen">
+            <h1>Simulador de Exámenes INE</h1>
+            <p>¿Cuántas preguntas deseas responder?</p>
+            
+            <div class="start-input">
+                <input type="number" id="num-questions" min="1" placeholder="Ej: 10" value="10">
+                <button id="start-btn">Iniciar examen</button>
+            </div>
+            
+            <p id="start-error" class="error hidden"></p>
+            <p id="total-questions-info" class="info"></p>
+        </div>
+
+        <!-- Contenido del examen (oculto al inicio) -->
+        <div id="exam-content" class="hidden">
+            <header>
+                <h1>Prueba: Reglamento de Elecciones</h1>
+                <div class="progress-container">
+                    <div id="progress" class="progress"></div>
+                </div>
+                <p id="question-counter" class="counter"></p>
+            </header>
+
+            <main id="quiz-container">
+                <div id="question-text" class="question"></div>
+                <div id="options" class="options"></div>
+            </main>
+
+            <footer class="navigation">
+                <button id="prev-btn" class="nav-btn">← Anterior</button>
+                <button id="next-btn" class="nav-btn">Siguiente →</button>
+            </footer>
+
+            <div class="question-map">
+                <h3>Paleta de Preguntas</h3>
+                <div id="map-buttons" class="map-buttons"></div>
+            </div>
+
+            <!-- Resultados -->
+            <div id="results" class="results hidden">
+                <h2>¡Examen finalizado!</h2>
+                <div id="score" class="score"></div>
+                <div id="review" class="review"></div>
+                <button id="restart-btn" class="restart-btn">Volver al inicio</button>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
