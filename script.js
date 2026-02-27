@@ -263,6 +263,7 @@ function resetExam() {
     DOM.results.classList.add('hidden');
     DOM.examContent.classList.add('hidden');
     DOM.startScreen.classList.remove('hidden');
+    location.reload();
 }
 
 // ==================== EVENTOS ====================
