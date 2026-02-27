@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador de Preguntas</title>
+    <title>Simulador INE - Concurso Público</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -11,11 +11,24 @@
 
         <!-- Pantalla inicial -->
         <div id="start-screen" class="start-screen">
-            <h1>Simulador de Exámenes para concurso público INE</h1>
+            <div class="header-top">
+                <h1>Simulador de Exámenes INE</h1>
+         
+            </div>
+
+            <p id="history-stats" class="history-stats"></p>
+
             <p>¿Cuántas preguntas deseas responder?</p>
             
             <div class="start-input">
-                <input type="number" id="num-questions" min="1" placeholder="Ej: 10" value="10">
+                <input type="number" id="num-questions" min="1" value="20" placeholder="Ej: 20">
+                <select id="category-select">
+                    <option value="Todas">Todas las categorías</option>
+                    <option value="Sistema Electoral" selected>Sistema Electoral</option>
+                    <option value="Sistema Político">Sistema Político</option>
+                    <option value="Matemáticas">Matemáticas</option>
+                    <option value="Lenguaje y Comunicación">Lenguaje y Comunicación</option>
+                </select>
                 <button id="start-btn">Iniciar examen</button>
             </div>
             
@@ -23,10 +36,10 @@
             <p id="total-questions-info" class="info"></p>
         </div>
 
-        <!-- Contenido del examen (oculto al inicio) -->
+        <!-- Examen -->
         <div id="exam-content" class="hidden">
             <header>
-                <h1>Banco de Preguntas</h1>
+                <h1>Banco de Preguntas INE</h1>
                 <div class="progress-container">
                     <div id="progress" class="progress"></div>
                 </div>
@@ -36,7 +49,6 @@
                     <p>Tiempo transcurrido: <span id="timer-display">00:00</span></p>
                     <p class="timer-estimado">Tiempo ideal estimado: <span id="tiempo-ideal">—</span></p>
                 </div>
-
             </header>
 
             <main id="quiz-container">
@@ -55,15 +67,16 @@
             </div>
 
             <!-- Resultados -->
+           <!-- Resultados -->
             <div id="results" class="results hidden">
                 <h2>¡Examen finalizado!</h2>
-
                 <div id="tiempo-resultado" class="tiempo-final"></div>
-
                 <div id="score" class="score"></div>
                 <div id="review" class="review"></div>
-                <div class="sustento"></div>
-                <button id="restart-btn" class="restart-btn">Volver al inicio</button>
+                <div class="results-actions">
+                    <button id="export-pdf" class="action-btn">Exportar a PDF</button>
+                    <button id="restart-btn" class="restart-btn">Volver al inicio</button>
+                </div>
             </div>
         </div>
 
