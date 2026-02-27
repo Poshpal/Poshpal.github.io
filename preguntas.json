@@ -3096,7 +3096,7 @@
     },
     {
         "id": 259,
-        "text": "Señale la opción que contiene el significado opuesto a las palabras marcadas en negritas: La diferencia entre la fe y la convicción radica en que la convicción no se permite fluctuar cuando perdemos el ánimo.",
+        "text": "Señale la opción que contiene el significado opuesto a la palabra entre comillas: La diferencia entre la fe y la convicción radica en que la convicción no se permite ''fluctuar'' cuando perdemos el ánimo.",
         "options": [
             { "text": "variar", "correct": false },
             { "text": "permanecer", "correct": true },
@@ -3144,7 +3144,7 @@
     },
     {
         "id": 263,
-        "text": "Señale la opción que contiene el significado opuesto a las palabras marcadas en negritas: La biblioteca permanecerá cerrada por motivos de causa mayor, se informará en los medios sobre la posible fecha de su reapertura, disculpe las molestias que esto le pueda ocasionar.",
+        "text": "Señale la opción que contiene el significado opuesto a la palabra entre comillas: La biblioteca ''permanecerá'' cerrada por motivos de causa mayor, se informará en los medios sobre la posible fecha de su reapertura, disculpe las molestias que esto le pueda ocasionar.",
         "options": [
             { "text": "perseverar", "correct": false },
             { "text": "durar", "correct": false },
