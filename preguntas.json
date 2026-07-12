@@ -8017,5 +8017,16 @@
         ],
         "sustento": "3 * 5 - 2 = 15 - 2 = 13 [3].",
         "categoria": "Matemáticas"
+    },
+    {
+        "id": 730,
+        "text": "Resuelve: 3 * (4 + 1) - 2",
+        "options": [
+            { "text": "13", "correct": true },
+            { "text": "15", "correct": false },
+            { "text": "11", "correct": false }
+        ],
+        "sustento": "3 * 5 - 2 = 15 - 2 = 13 [3].",
+        "categoria": "Matemáticas"
     }
 ]
