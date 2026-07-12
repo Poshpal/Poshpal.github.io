@@ -98,7 +98,12 @@ const order = [
     "Sistema Político",
     "Razonamiento Matemático",
     "Lenguaje y Comunicación",
+<<<<<<< Updated upstream
     "Piscométrico",
+=======
+    "Vocal de Organización Electoral Distrital",
+    "Vocal de Capacitación Electoral y Educación Cívica Distrital",
+>>>>>>> Stashed changes
     "Sin categoría"
 ];
 
@@ -106,7 +111,11 @@ let breakdownText = ' ';
 order.forEach(cat => {
     if (counts[cat] > 0) {
         if (breakdownText) breakdownText += '   ·   ';
+<<<<<<< Updated upstream
         breakdownText += `<strong>${cat}:</strong> ${counts[cat]}<br>`;
+=======
+        breakdownText +=`<strong>${cat}: </strong>${counts[cat]}<br>`;
+>>>>>>> Stashed changes
     }
 });
 
