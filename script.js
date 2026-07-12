@@ -96,16 +96,17 @@ allQuestions.forEach(q => {
 const order = [
     "Sistema Electoral",
     "Sistema Político",
-    "Matemáticas",
+    "Razonamiento Matemático",
     "Lenguaje y Comunicación",
+    "Piscométrico",
     "Sin categoría"
 ];
 
-let breakdownText = '';
+let breakdownText = ' ';
 order.forEach(cat => {
     if (counts[cat] > 0) {
         if (breakdownText) breakdownText += '   ·   ';
-        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}`;
+        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}<br>`;
     }
 });
 
@@ -113,7 +114,7 @@ order.forEach(cat => {
 Object.keys(counts).forEach(cat => {
     if (!order.includes(cat) && counts[cat] > 0) {
         if (breakdownText) breakdownText += '   ·   ';
-        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}`;
+        breakdownText += `<strong>${cat}:</strong> ${counts[cat]}<br>`;
     }
 });
 

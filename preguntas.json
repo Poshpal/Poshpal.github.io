@@ -8020,13 +8020,652 @@
     },
     {
         "id": 730,
-        "text": "Resuelve: 3 * (4 + 1) - 2",
+        "text": "Me resulta fácil ajustar mi agenda y prioridades cuando surgen imprevistos electorales de última hora.",
         "options": [
-            { "text": "13", "correct": true },
-            { "text": "15", "correct": false },
-            { "text": "11", "correct": false }
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
         ],
-        "sustento": "3 * 5 - 2 = 15 - 2 = 13 [3].",
-        "categoria": "Matemáticas"
+        "sustento": "La flexibilidad ante imprevistos es esencial en la organización electoral.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 731,
+        "text": "Me frustro cuando los sistemas o plataformas del Instituto cambian su interfaz o funcionamiento sin previo aviso.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "Baja reactividad emocional ante cambios tecnológicos indica buena adaptabilidad.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 732,
+        "text": "Disfruto resolver situaciones electorales complejas donde las instrucciones no son totalmente claras.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La tolerancia a la ambigüedad es clave para la resolución de problemas electorales.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 733,
+        "text": "Me cuesta varios días adaptarme a un nuevo equipo de trabajo o a nuevos consejeros.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La rápida adaptación a nuevos actores es indispensable en un órgano plural.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 734,
+        "text": "Prefiero mantener métodos de trabajo probados durante años aunque existan alternativas más modernas.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La apertura al cambio es necesaria para incorporar buenas prácticas electorales.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 735,
+        "text": "Pierdo motivación cuando un proyecto electoral en el que he invertido mucho tiempo se modifica o cancela.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La resiliencia ante cambios de dirección es fundamental.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 736,
+        "text": "Me ofrezco voluntariamente para capacitarme en nuevas tecnologías o procesos electorales.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La proactividad en el aprendizaje es altamente valorada.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 737,
+        "text": "Mi productividad baja considerablemente cuando debo trabajar en un entorno o sede diferente al habitual.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "Mantener productividad en contextos variables es clave.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 738,
+        "text": "Me adapto rápidamente a los diferentes estilos de comunicación de los representantes de partidos políticos.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La flexibilidad interpersonal es indispensable en un contexto plural.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 739,
+        "text": "Me incomoda que me asignen tareas que están fuera de mi descripción formal de puesto.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La disposición a responsabilidades adicionales es valorada en periodos de alta demanda.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 740,
+        "text": "Cuando tengo múltiples plazos electorales próximos, mantengo la calidad de mi trabajo.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "Mantener calidad bajo presión es indicador de buen manejo del estrés.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 741,
+        "text": "Puedo desconectar de las preocupaciones laborales al finalizar mi jornada.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El equilibrio trabajo-vida es protector contra el agotamiento.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 742,
+        "text": "Ante un representante de partido que se expresa de forma alterada, mantengo la calma y profesionalismo.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El autocontrol emocional es indispensable para preservar la imparcialidad.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 743,
+        "text": "Después de cometer un error significativo, me cuesta retomar la concentración durante el resto del día.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La rápida recuperación tras errores demuestra resiliencia.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 744,
+        "text": "Busco activamente retroalimentación sobre mi desempeño aunque pueda incluir críticas.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La búsqueda de feedback favorece la mejora continua.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 745,
+        "text": "Presento síntomas físicos de estrés cuando aumenta bruscamente la carga de trabajo.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "Baja reactividad somática ante estrés agudo es positiva.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 746,
+        "text": "Interpreto los comentarios negativos de superiores o consejeros como ataques personales.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La objetividad ante críticas es necesaria para el crecimiento profesional.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 747,
+        "text": "En situaciones de crisis electoral, priorizo proponer soluciones en lugar de identificar culpables.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El enfoque en soluciones refleja liderazgo efectivo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 748,
+        "text": "Me irrito fácilmente cuando soy interrumpido durante tareas que requieren alta concentración.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La tolerancia a interrupciones es importante en entornos colaborativos.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 749,
+        "text": "Mantengo una actitud optimista y apoyo a mi equipo cuando los resultados de una etapa no son los esperados.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El liderazgo positivo fortalece la moral del equipo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 750,
+        "text": "Reportaría a la autoridad correspondiente si detecto que un compañero realiza un uso indebido de recursos del Instituto.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La integridad y denuncia de irregularidades son pilares éticos irrenunciables del INE.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 751,
+        "text": "Considero que las normas electorales pueden interpretarse de forma flexible si el resultado beneficia al proceso.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca", "correct": true }
+        ],
+        "sustento": "Los principios de legalidad y certeza exigen apego estricto a la normatividad. Solo 'Nunca' es aceptable.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 752,
+        "text": "Si cometo un error que nadie ha detectado, lo informo para corregirlo.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La honestidad es un principio rector fundamental del INE.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 753,
+        "text": "Utilizo tiempo de la jornada laboral para resolver asuntos personales cuando he terminado mis tareas.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca", "correct": true }
+        ],
+        "sustento": "El uso adecuado del tiempo laboral es un estándar ético y de certeza en la función pública.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 754,
+        "text": "Me niego a firmar documentos si detecto información inexacta o alterada, aunque reciba presión.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La integridad ante cualquier presión es un principio irrenunciable del INE.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 755,
+        "text": "Intervengo o reporto inmediatamente si observo conductas de acoso o discriminación hacia un compañero.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La defensa del ambiente laboral respetuoso es una obligación ética.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 756,
+        "text": "Tiende a exagerar mis logros al reportar mi desempeño.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca", "correct": true }
+        ],
+        "sustento": "La honestidad en la rendición de cuentas es un principio rector del INE.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 757,
+        "text": "Cumplo estrictamente los protocolos de seguridad y cadena de custodia aunque generen demoras.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El cumplimiento estricto de protocolos garantiza certeza y legalidad.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 758,
+        "text": "Justifico retrasos en reuniones o entregables argumentando que estaba en actividades más importantes.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca", "correct": true }
+        ],
+        "sustento": "El respeto a los tiempos y agendas colectivas es básico en la función electoral.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 759,
+        "text": "Doy crédito público a los compañeros que contribuyeron en ideas o proyectos conjuntos.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El reconocimiento al trabajo en equipo promueve un buen clima organizacional.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 760,
+        "text": "Prefiero trabajar de forma individual en lugar de en equipos con representantes de diferentes partidos.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La disposición al trabajo colaborativo plural es esencial.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 761,
+        "text": "Escucho activamente las opiniones de otros aunque considere que mi punto de vista es mejor.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La escucha activa es base del diálogo democrático.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 762,
+        "text": "Me cuesta trabajar con personas que tienen menor conocimiento técnico que yo.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La paciencia con diferentes niveles fortalece los equipos.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 763,
+        "text": "Ofrezco apoyo a colegas que se encuentran saturados de trabajo cuando tengo disponibilidad.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La solidaridad es clave en periodos de alta demanda.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 764,
+        "text": "Evito expresar mi opinión en sesiones para no generar controversia.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La participación constructiva es parte de la responsabilidad del cargo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 765,
+        "text": "Mantengo una relación cordial y profesional con representantes de partidos con los que no coincido.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La imparcialidad y cordialidad son obligatorias.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 766,
+        "text": "Siento molestia cuando un compañero recibe reconocimiento por un logro en el que participé.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La madurez profesional favorece un ambiente colaborativo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 767,
+        "text": "Comparto mis conocimientos y experiencias con los nuevos servidores públicos del Instituto.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La transferencia de conocimiento fortalece la institución.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 768,
+        "text": "Prefiero terminar yo mismo el trabajo de un compañero antes que confrontarlo por su incumplimiento.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La comunicación asertiva es preferible para resolver problemas de equipo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 769,
+        "text": "Participo activamente en actividades de integración con el personal del Instituto.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La integración fortalece el clima laboral.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 770,
+        "text": "Inicio cada jornada elaborando una lista de prioridades y tiempos estimados para las actividades.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La planificación es indispensable para cumplir calendarios electorales.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 771,
+        "text": "Tomo decisiones importantes basándome principalmente en mi intuición.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "Las decisiones deben sustentarse en normatividad y evidencia.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 772,
+        "text": "Delego tareas con confianza en la capacidad de mi equipo.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La delegación efectiva es competencia central de liderazgo.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 773,
+        "text": "Me paralizo o dudo excesivamente ante decisiones que implican riesgo o recursos importantes.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La capacidad de decisión oportuna es clave en la organización electoral.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 774,
+        "text": "Entrego reportes, acuerdos y documentos antes o en la fecha límite establecida.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El cumplimiento proactivo de plazos es un estándar de excelencia.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 775,
+        "text": "Asumo naturalmente el liderazgo cuando un equipo queda sin dirección clara.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La iniciativa de liderazgo es muy valorada.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 776,
+        "text": "Ante retrasos en proyectos, primero analizo mi propia gestión antes de señalar factores externos.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La responsabilidad personal favorece la mejora continua.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 777,
+        "text": "Mantengo mi espacio de trabajo físico y digital (archivos, expedientes) organizado.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "El orden facilita la transparencia y eficiencia.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 778,
+        "text": "Me cuesta decir 'no' a solicitudes adicionales, lo que suele saturar mi agenda.",
+        "options": [
+        { "text": "Siempre" },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca", "correct": true },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La asertividad en la gestión de límites ayuda a mantener calidad.",
+        "categoria": "Psicométrico"
+    },
+    {
+        "id": 779,
+        "text": "Investigo posibles soluciones antes de consultar a mi superior sobre un problema.",
+        "options": [
+        { "text": "Siempre", "correct": true },
+        { "text": "Casi siempre" },
+        { "text": "A veces" },
+        { "text": "Casi nunca" },
+        { "text": "Nunca" }
+        ],
+        "sustento": "La proactividad y autonomía técnica son altamente valoradas.",
+        "categoria": "Psicométrico"
     }
 ]

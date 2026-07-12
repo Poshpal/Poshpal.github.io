@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulador INE - Concurso Público</title>
+    <title>Simulador - Concurso Público</title>
     <link rel="stylesheet" href="styles.css">
     <!-- jsPDF y html2canvas (recomendado versiones estables al 2024-2025) -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
@@ -15,7 +15,7 @@
         <!-- Pantalla inicial -->
         <div id="start-screen" class="start-screen">
             <div class="header-top">
-                <h1>Simulador de Exámenes INE</h1>
+                <h1>Simulador de Exámenes</h1>
          
             </div>
 
@@ -29,8 +29,9 @@
                     <option value="Todas">Todas las categorías</option>
                     <option value="Sistema Electoral" selected>Sistema Electoral</option>
                     <option value="Sistema Político">Sistema Político</option>
-                    <option value="Matemáticas">Matemáticas</option>
+                    <option value="Matemáticas">Razonamiento Matemático</option>
                     <option value="Lenguaje y Comunicación">Lenguaje y Comunicación</option>
+                    <option value="Psicométrico">Examen Psicométrico</option>
                 </select>
                 <button id="start-btn">Iniciar examen</button>
             </div>
@@ -45,7 +46,7 @@
         <!-- Examen -->
         <div id="exam-content" class="hidden">
             <header>
-                <h1>Banco de Preguntas INE</h1>
+                <h1>Banco de Preguntas</h1>
                 <div class="progress-container">
                     <div id="progress" class="progress"></div>
                 </div>
