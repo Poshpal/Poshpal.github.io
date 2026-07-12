@@ -98,8 +98,7 @@ const order = [
     "Sistema Político",
     "Razonamiento Matemático",
     "Lenguaje y Comunicación",
-    "Vocal de Organización Electoral Distrital",
-    "Vocal de Capacitación Electoral y Educación Cívica Distrital",
+    "Piscométrico",
     "Sin categoría"
 ];
 
